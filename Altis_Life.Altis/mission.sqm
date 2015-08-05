@@ -1,4 +1,4 @@
-version=12;
+﻿version=12;
 class Mission
 {
 	addOns[]=
@@ -107,9 +107,7 @@ class Mission
 		"A3_Modules_F_Curator_Mines",
 		"A3_Structures_F_Bootcamp_Civ_SportsGrounds",
 		"A3_Structures_F_Dominants_Lighthouse",
-		"A3_Characters_F_Kart",
-		"CABuildings",
-		"aia_buildings_config"
+		"A3_Characters_F_Kart"
 	};
 	addOnsAuto[]=
 	{
@@ -154,8 +152,6 @@ class Mission
 		"A3_Structures_F_Kart_Signs_Companies",
 		"A3_Structures_F_Ind_AirPort",
 		"A3_Structures_F_Ind_Transmitter_Tower",
-		"CABuildings",
-		"aia_buildings_config",
 		"A3_Structures_F_Civ_Offices",
 		"A3_Structures_F_Ind_SolarPowerPlant",
 		"A3_Structures_F_Mil_Barracks",
