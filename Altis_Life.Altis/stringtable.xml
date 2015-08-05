@@ -2612,7 +2612,7 @@
 			<German>Aufsatz Platz belegt!</German>
 			<French>Fente de fixation pris!</French>
 			<Italian>Slot Accessorio preso!</Italian>
-			<Portuguese>Attachment slot taken!</Portuguese>
+			<Portuguese>Slot para item ocupado!</Portuguese>
 		</Key>
 		<Key ID="STR_MISC_Weapon">
 			<Original>Weapon</Original>
@@ -5088,84 +5088,87 @@
 	</Package>
 		<Package name="Support_Menu">
 		<Key ID="STR_PM_SupportMenu">
-			<Original>Supporter Menü</Original>
+			<Original>Menu</Original>
 		</Key>
 	</Package>
 	<Package name="Admin_Menu">
 		<Key ID="STR_Admin_Spectate">
-			<Original>Zuschauen</Original>
+			<Original>Observar</Original>
 		</Key>
 		<Key ID="STR_Admin_Teleport">
 			<Original>Teleport</Original>
+			<Portuguese>Teleporte</Portuguese>
 		</Key>
 		<Key ID="STR_Admin_TpHere">
-			<Original>TP Here</Original>
+			<Original>Teleportar Player</Original>
 		</Key>
 	</Package>
 		<Package name="Smartphone">
 		<Key ID="STR_PM_Smartphone">
-			<Original>Telefon</Original>
+			<Original>Telefone</Original>
+			
+			
 		</Key>
 		<Key ID="STR_SMARTPHONE_TITLE">
-			<Original>Telefon SMS</Original>
+			<Original>Telefone SMS</Original>
 		</Key>
 		<Key ID="STR_SMARTPHONE_PLAYERLISTTITLE">
-			<Original>Spielerliste</Original>
+			<Original>Jogadores</Original>
 		</Key>
 		<Key ID="STR_SMARTPHONE_MESSAGETITLE">
-			<Original>Nachrichten  | VON | WANN</Original>
+			<Original>Noticias  | De | Quando</Original>
 		</Key>
 		<Key ID="STR_SMARTPHONE_RANDOMTITLE">
-			<Original>Nachricht zum lesen auswählen</Original>
+			<Original>Escolha uma mensgem para ler</Original>
 		</Key>
 		<Key ID="STR_SMARTPHONE_SCHREIBEN">
-			<Original>Schreiben</Original>
+			<Original>Escrever</Original>
 		</Key>
 		<Key ID="STR_SMARTPHONE_NOTRUF">
-			<Original>Notruf</Original>
+			<Original>Emergência</Original>
 		</Key>
 		<Key ID="STR_SMARTPHONE_Absenden">
-			<Original>Absenden</Original>
+			<Original>Enviar</Original>
 		</Key>
 		<Key ID="STR_SMARTPHONE_NACHRICHTTITLE">
-			<Original>Nachricht an:</Original>
+			<Original>Mensagem para:</Original>
 		</Key>
 		<Key ID="STR_SMARTPHONE_Notruftitle">
-			<Original>Kostenloser Notruf Dienst</Original>
+			<Original>Emergência Gratuito</Original>
 		</Key>
 		<Key ID="STR_pInAct_RevokeLicense">
-			<Orignal>Revoke Licenses</Orignal>
+			<Orignal>Revogar Livenças</Orignal>
 		</Key>
 		<Key ID="STR_Civ_RevokeLicense_Driver">
-			<Original>Your Drivers License has been REVOKED by the Police!</Original>
+			<Original>Sua carteira de motorista foi revogada pela Polícia!</Original>
 		</Key>
 		<Key ID="STR_Civ_RevokeLicense_Truck">
-			<Original>Your Truck License has been REVOKED by the Police!</Original>
+			<Original>Sua carteira de caminhão foi revogada pela Polícia!</Original>
 		</Key>
 		<Key ID="STR_Civ_RevokeLicense_Pilot">
-			<Original>Your Pilot License has been REVOKED by the Police!</Original>
+			<Original>Sua carteira de Piloto foi revogada pela Polícia!</Original>
 		</Key>
 		<Key ID="STR_Civ_RevokeLicense_Boating">
-			<Original>Your Boating License has been REVOKED by the Police!</Original>
+			<Original>Sua carteira de barco foi revogada pela Polícia!</Original>
 		</Key>
 		<Key ID="STR_Civ_RevokeLicense_Diving">
-			<Original>Your Diving License has been REVOKED by the Police!</Original>
+			<Original>Sua carteira de mergulho foi revogada pela Polícia!</Original>
 		</Key>
 		<Key ID="STR_Civ_RevokeLicense_Taxi">
-			<Original>Your Taxi License has been REVOKED by the Police!</Original>
+			<Original>Sua carteira de Taxi foi revogada pela Polícia!!</Original>
 		</Key>
 		<Key ID="STR_Civ_RevokeLicense_AllMotor">
-			<Original>Your Motor Vehicle Licenses have been REVOKED by the Police!</Original>
+			<Original>Todas as carteiras foram revogadas pela Polícia!</Original>
 		</Key>
 		<Key ID="STR_Civ_RevokeLicense_Firearm">
-			<Original>Your Firearms License has been REVOKED by the Police!</Original>
+			<Original>Sua carteira de Arma foi revogada pela Polícia!</Original>
 		</Key>
 		</Package>
 		<Key ID="STR_Civ_LicenseRemove_1a">
-			<Original>Durch Deine wiederholte Überschreitung der Geschwindigkeit, wurde Dir dein Führerschein entzogen.</Original>
+			<Original>Por receber várias multas de velocidade, sua carteira foi revogada.</Original>
 		</Key> 
 		<key ID="STR_pInAct_rob">
-			<Original>Ausrauben</Original>
+			<Original>Roubar</Original>
 			<German>Ausrauben</German>
 		</Key>
 		<Package name="Craft">
@@ -5178,20 +5181,20 @@
 		<Portuguese>Crafting Menu</Portuguese>
 	</Key>
 	<Key ID="STR_PM_CraftStats">
-		<Original>Object to craft</Original>
+		<Original>Objeto para craftar</Original>
  		<English>Object to craft</English>
  		<German>Objekt nach herstellung</German>
 		<French>Objet à crafter</French>
 		<Italian>Object to craft</Italian>
-		<Portuguese>Object to craft</Portuguese>
+		<Portuguese>Objeto para craftar</Portuguese>
 	</Key>
 	<Key ID="STR_PM_CraftMaterials">
-		<Original>Materials needed</Original>
+		<Original>Material Necessário</Original>
  		<English>Materials needed</English>
  		<German>Benötigte Gegenstände</German>
 		<French>Materiaux requis</French>
 		<Italian>Materials needed</Italian>
-		<Portuguese>Materials needed</Portuguese>
+		<Portuguese>Material Necessário</Portuguese>
 	</Key>
 	<Key ID="STR_CRAFT_Button">
 		<Original>Craft !</Original>
@@ -5202,12 +5205,12 @@
 		<Portuguese>Craft !</Portuguese>
 	</Key>
 	<Key ID="STR_PM_NoMaterial">
-		<Original>You do not have all the required materials !</Original>
+		<Original>Você não tem todos os materiais necessários!</Original>
  		<English>You do not have all the required materials !</English>
  		<German>Du hast nicht alle benötigten Materialien !</German>
 		<French>Vous n'avez pas tous les matériaux requis !</French>
 		<Italian>You do not have all the required materials !</Italian>
-		<Portuguese>You do not have all the required materials !</Portuguese>
+		<Portuguese>Você não tem todos os materiais necessários!</Portuguese>
 	</Key>
 	<Key ID="STR_CRAFT_Process">
 		<Original>You have crafted : %1</Original>
@@ -5215,7 +5218,7 @@
 		<German>Du hast folgenden Gegenstand hergestellt : %1</German>
 		<French>Vous avez crafté : %1</French>
 		<Italian>You have crafted : %1</Italian>
-		<Portuguese>You have crafted : %1</Portuguese>
+		<Portuguese>Você craftou : %1</Portuguese>
 	</Key>
 	</Package>
 </Project>
