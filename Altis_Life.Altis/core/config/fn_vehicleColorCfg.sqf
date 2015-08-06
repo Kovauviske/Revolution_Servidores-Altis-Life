@@ -198,9 +198,8 @@ switch (_vehicle) do
 		_path = "skins\car\";
 		_ret = 
 		[
-			[_path + "sek_hunter_1.paa","cop",_path + "sek_hunter_2.paa"],
 			[_path + "donator_hunter_front.jpg","civ",_path + "donator_hunter_hinten.jpg"],
-			[_path + "hunterpol_1.jpg","cop",_path + "hunterpol_2.jpg"]
+			[_path + "hunterpol_1.jpg","cop"]
 		];
 	};
 	
@@ -230,7 +229,6 @@ switch (_vehicle) do
 		_path = "skins\air\";
 		_ret =
 		[
-//			[_path + "hellcat.jpg","cop"],
 			[_path + "hellcat_adac.jpg","med"],
 			[_path + "sek_hellcat.jpg","cop"]
 		];
