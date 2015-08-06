@@ -13,18 +13,18 @@ playSound "welcome";
 
 _onScreenTime = 2;
 
-_role1 = "Willkommen bei";
-_role1names = ["S E A L D R O P"];
-_role2 = "Server Inhaber";
-_role2names = ["ADMIN_NAMEN"];
-_role3 = "Map Edit by";
-_role3names = ["TheTotenkopf"];
-_role4 = "Offizieller TeamSpeak";
-_role4names = ["TS_NAME"];
-_role8 = "Offizielles Forum";
-_role8names = ["FORUM_NAME"];
- _role9 = "Server Restarts";
-_role9names = ["0,6,9,12,15,18,21"];
+_role1 = "Bem vindo ao";
+_role1names = ["Revolution Servidores"];
+_role2 = "Proprietários";
+_role2names = ["JPS e Dilu"];
+_role3 = "Edição e Configurações";
+_role3names = ["JPS, Chucck, Dilu e TheTotenkopf"];
+_role4 = "TeamSpeak";
+_role4names = ["games.revolutionservidores.com.br"];
+_role8 = "Forum";
+_role8names = ["forum.revolutionservidores.com.br"];
+ _role9 = "Restarts";
+_role9names = ["0,4,8,12,16 e 20"];
 
 {
 sleep 2;

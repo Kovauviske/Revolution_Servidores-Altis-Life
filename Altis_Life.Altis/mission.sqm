@@ -202,8 +202,8 @@ class Mission
 	randomSeed=2004553;
 	class Intel
 	{
-		briefingName="SealDrop Altis Life RPG";
-		overviewText="SealDrop.de Altis Life";
+		briefingName="Revolution Servidores Altis Life RPG";
+		overviewText="forum.revolutionservidores.com.br";
 		startWeather=0.1;
 		startWind=0.29999998;
 		startWindDir=20;
@@ -242,7 +242,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_16";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 16";
+					description="[WHITELIST] Policia 16";
 				};
 				class Item1
 				{
@@ -255,7 +255,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_13";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 13";
+					description="[WHITELIST] Policia 13";
 				};
 				class Item2
 				{
@@ -268,7 +268,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_6";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 6";
+					description="[WHITELIST] Policia 6";
 				};
 				class Item3
 				{
@@ -281,7 +281,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_11";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 11";
+					description="[WHITELIST] Policia 11";
 				};
 				class Item4
 				{
@@ -294,7 +294,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_7";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 7";
+					description="[WHITELIST] Policia 7";
 				};
 				class Item5
 				{
@@ -307,7 +307,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_12";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 12";
+					description="[WHITELIST] Policia 12";
 				};
 				class Item6
 				{
@@ -320,7 +320,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_14";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 14";
+					description="[WHITELIST] Policia 14";
 				};
 				class Item7
 				{
@@ -333,7 +333,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_15";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 15";
+					description="[WHITELIST] Policia 15";
 				};
 				class Item8
 				{
@@ -346,7 +346,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_9";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 9";
+					description="[WHITELIST] Policia 9";
 				};
 				class Item9
 				{
@@ -359,7 +359,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_8";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 8";
+					description="[WHITELIST] Policia 8";
 				};
 				class Item10
 				{
@@ -372,7 +372,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_4";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 4";
+					description="[WHITELIST] Policia 4";
 				};
 				class Item11
 				{
@@ -385,7 +385,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_2";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 2";
+					description="[WHITELIST] Policia 2";
 				};
 				class Item12
 				{
@@ -398,7 +398,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_3";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 3";
+					description="[WHITELIST] Policia 3";
 				};
 				class Item13
 				{
@@ -411,7 +411,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_5";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 5";
+					description="[WHITELIST] Policia 5";
 				};
 				class Item14
 				{
@@ -424,7 +424,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_10";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 10";
+					description="[WHITELIST] Policia 10";
 				};
 				class Item15
 				{
@@ -453,7 +453,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_17";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 17";
+					description="[WHITELIST] Policia 17";
 				};
 				class Item17
 				{
@@ -466,7 +466,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_18";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 18";
+					description="[WHITELIST] Policia 18";
 				};
 				class Item18
 				{
@@ -479,7 +479,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_19";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 19";
+					description="[WHITELIST] Policia 19";
 				};
 				class Item19
 				{
@@ -492,7 +492,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_20";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 20";
+					description="[WHITELIST] Policia 20";
 				};
 				class Item20
 				{
@@ -504,7 +504,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_21";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Polizist 21";
+					description="[WHITELIST] Policia 21";
 				};
 				class Item21
 				{
@@ -518,7 +518,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_22";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Sanitäter/ADAC 21";
+					description="[WHITELIST] Médico/Mecânico 21";
 				};
 				class Item22
 				{
@@ -532,7 +532,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_23";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Sanitäter/ADAC 23";
+					description="[WHITELIST] Médico/Mecânico 23";
 				};
 				class Item23
 				{
@@ -546,7 +546,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_24";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Sanitäter/ADAC 24";
+					description="[WHITELIST] Médico/Mecânico 24";
 				};
 				class Item24
 				{
@@ -560,7 +560,7 @@ class Mission
 					skill=0.60000002;
 					text="cop_25";
 					init="removeBackpack this; removeAllWeapons this;";
-					description="[WHITELIST] Sanitäter/ADAC 25";
+					description="[WHITELIST] Médico/Mecânico 25";
 				};
 			};
 		};
@@ -582,7 +582,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_1";
-					description="Zivilist 1";
+					description="Civil 1";
 				};
 			};
 		};
@@ -604,7 +604,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_2";
-					description="Zivilist 2";
+					description="Civil 2";
 				};
 			};
 		};
@@ -626,7 +626,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_3";
-					description="Zivilist 3";
+					description="Civil 3";
 				};
 			};
 		};
@@ -648,7 +648,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_4";
-					description="Zivilist 4";
+					description="Civil 4";
 				};
 			};
 		};
@@ -670,7 +670,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_5";
-					description="Zivilist 5";
+					description="Civil 5";
 				};
 			};
 		};
@@ -692,7 +692,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_6";
-					description="Zivilist 6";
+					description="Civil 6";
 				};
 			};
 		};
@@ -714,7 +714,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_7";
-					description="Zivilist 7";
+					description="Civil 7";
 				};
 			};
 		};
@@ -736,7 +736,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_8";
-					description="Zivilist 8";
+					description="Civil 8";
 				};
 			};
 		};
@@ -758,7 +758,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_9";
-					description="Zivilist 9";
+					description="Civil 9";
 				};
 			};
 		};
@@ -780,7 +780,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_10";
-					description="Zivilist 10";
+					description="Civil 10";
 				};
 			};
 		};
@@ -802,7 +802,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_11";
-					description="Zivilist 11";
+					description="Civil 11";
 				};
 			};
 		};
@@ -824,7 +824,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_12";
-					description="Zivilist 12";
+					description="Civil 12";
 				};
 			};
 		};
@@ -846,7 +846,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_13";
-					description="Zivilist 13";
+					description="Civil 13";
 				};
 			};
 		};
@@ -868,7 +868,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_14";
-					description="Zivilist 14";
+					description="Civil 14";
 				};
 			};
 		};
@@ -890,7 +890,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_15";
-					description="Zivilist 15";
+					description="Civil 15";
 				};
 			};
 		};
@@ -912,7 +912,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_16";
-					description="Zivilist 16";
+					description="Civil 16";
 				};
 			};
 		};
@@ -934,7 +934,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_17";
-					description="Zivilist 17";
+					description="Civil 17";
 				};
 			};
 		};
@@ -956,7 +956,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_18";
-					description="Zivilist 18";
+					description="Civil 18";
 				};
 			};
 		};
@@ -978,7 +978,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_19";
-					description="Zivilist 19";
+					description="Civil 19";
 				};
 			};
 		};
@@ -1000,7 +1000,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_20";
-					description="Zivilist 20";
+					description="Civil 20";
 				};
 			};
 		};
@@ -1022,7 +1022,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_21";
-					description="Zivilist 21";
+					description="Civil 21";
 				};
 			};
 		};
@@ -1044,7 +1044,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_22";
-					description="Zivilist 22";
+					description="Civil 22";
 				};
 			};
 		};
@@ -1066,7 +1066,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_23";
-					description="Zivilist 23";
+					description="Civil 23";
 				};
 			};
 		};
@@ -1088,7 +1088,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_24";
-					description="Zivilist 24";
+					description="Civil 24";
 				};
 			};
 		};
@@ -1110,7 +1110,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_25";
-					description="Zivilist 25";
+					description="Civil 25";
 				};
 			};
 		};
@@ -1132,7 +1132,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_26";
-					description="Zivilist 26";
+					description="Civil 26";
 				};
 			};
 		};
@@ -1154,7 +1154,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_27";
-					description="Zivilist 27";
+					description="Civil 27";
 				};
 			};
 		};
@@ -1176,7 +1176,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_28";
-					description="Zivilist 28";
+					description="Civil 28";
 				};
 			};
 		};
@@ -1198,7 +1198,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_29";
-					description="Zivilist 29";
+					description="Civil 29";
 				};
 			};
 		};
@@ -1220,7 +1220,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_30";
-					description="Zivilist 30";
+					description="Civil 30";
 				};
 			};
 		};
@@ -1242,7 +1242,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_31";
-					description="Zivilist 31";
+					description="Civil 31";
 				};
 			};
 		};
@@ -1264,7 +1264,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_32";
-					description="Zivilist 32";
+					description="Civil 32";
 				};
 			};
 		};
@@ -1286,7 +1286,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_33";
-					description="Zivilist 33";
+					description="Civil 33";
 				};
 			};
 		};
@@ -1308,7 +1308,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_34";
-					description="Zivilist 34";
+					description="Civil 34";
 				};
 			};
 		};
@@ -1330,7 +1330,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_35";
-					description="Zivilist 35";
+					description="Civil 35";
 				};
 			};
 		};
@@ -1352,7 +1352,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_36";
-					description="Zivilist 36";
+					description="Civil 36";
 				};
 			};
 		};
@@ -1374,7 +1374,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_37";
-					description="Zivilist 37";
+					description="Civil 37";
 				};
 			};
 		};
@@ -1396,7 +1396,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_38";
-					description="Zivilist 38";
+					description="Civil 38";
 				};
 			};
 		};
@@ -1418,7 +1418,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_39";
-					description="Zivilist 39";
+					description="Civil 39";
 				};
 			};
 		};
@@ -1440,7 +1440,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_40";
-					description="Zivilist 40";
+					description="Civil 40";
 				};
 			};
 		};
@@ -1462,7 +1462,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_41";
-					description="Zivilist 41";
+					description="Civil 41";
 				};
 			};
 		};
@@ -1484,7 +1484,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_42";
-					description="Zivilist 42";
+					description="Civil 42";
 				};
 			};
 		};
@@ -1506,7 +1506,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_43";
-					description="Zivilist 43";
+					description="Civil 43";
 				};
 			};
 		};
@@ -1528,7 +1528,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_44";
-					description="Zivilist 44";
+					description="Civil 44";
 				};
 			};
 		};
@@ -2168,7 +2168,7 @@ class Mission
 					vehicle="B_RangeMaster_F";
 					skill=0.60000002;
 					text="h1_3";
-					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Visiere und Sonstiges"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Praktikanten Laden"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Beamten Laden"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Kommisar Laden"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Haupt-Kommisar Laden"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""SEK Laden"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""GSG9 Laden"",life_fnc_weaponShopMenu,""cop_gsg""];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Equipamentos"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Aprendiz"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Recruta"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Policial"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Comandante"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""BOPE"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""COMANDANTE BOPE"",life_fnc_weaponShopMenu,""cop_gsg""];";
 				};
 				class Item47
 				{
@@ -2275,7 +2275,7 @@ class Mission
 					side="CIV";
 					vehicle="C_man_p_fugitive_F_asia";
 					skill=0.60000002;
-					init="this enableSimulation false; this allowDamage false; this addAction[""Hornbach"",life_fnc_weaponShopMenu,""genstore""];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""genstore""];";
 				};
 				class Item56
 				{
@@ -2312,7 +2312,7 @@ class Mission
 					side="CIV";
 					vehicle="C_man_p_fugitive_F_asia";
 					skill=0.60000002;
-					init="this enableSimulation false; this allowDamage false; this addAction[""Hornbach"",life_fnc_weaponShopMenu,""genstore""];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""genstore""];";
 				};
 				class Item59
 				{
@@ -2414,7 +2414,7 @@ class Mission
 					vehicle="B_RangeMaster_F";
 					skill=0.60000002;
 					text="h1_3_1";
-					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Visiere und Sonstiges"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Praktikanten Laden"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Beamten Laden"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Kommisar Laden"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Haupt-Kommisar Laden"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""SEK Laden"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""GSG9 Laden"",life_fnc_weaponShopMenu,""cop_gsg""];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Equipamentos"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Aprendiz"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Recruta"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Policial"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Comandante"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""BOPE"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""COMANDANTE BOPE"",life_fnc_weaponShopMenu,""cop_gsg""];";
 				};
 				class Item68
 				{
@@ -2426,7 +2426,7 @@ class Mission
 					vehicle="B_RangeMaster_F";
 					skill=0.60000002;
 					text="h1_3_2";
-					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Visiere und Sonstiges"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Praktikanten Laden"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Beamten Laden"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Kommisar Laden"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Haupt-Kommisar Laden"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""SEK Laden"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""GSG9 Laden"",life_fnc_weaponShopMenu,""cop_gsg""];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Equipamentos"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Aprendiz"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Recruta"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Policial"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Comandante"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""BOPE"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""COMANDANTE BOPE"",life_fnc_weaponShopMenu,""cop_gsg""];";
 				};
 				class Item69
 				{
@@ -2472,7 +2472,7 @@ class Mission
 					vehicle="O_Soldier_F";
 					skill=0.60000002;
 					text="reb_1_2";
-					init="removeallWeapons this;  this enableSimulation false;  this allowDamage false;  this addAction[""Rebel Clothing Shop"",life_fnc_clothingMenu,""reb"",0,false,false,"""",' license_civ_rebel && playerSide == civilian'];  this addAction[""Rebel Weapon Shop"",life_fnc_weaponShopMenu,""rebel"",0,false,false,"""",' license_civ_rebel && playerSide == civilian'];  this addAction[format[""%1 ($%2)"",[""license_civ_rebel""] call life_fnc_varToStr,[([""rebel""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""rebel"",0,false,false,"""",' !license_civ_rebel && playerSide == civilian ']; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
+					init="removeallWeapons this;  this enableSimulation false;  this allowDamage false;  this addAction[""Rebel Clothing Shop"",life_fnc_clothingMenu,""reb"",0,false,false,"""",' license_civ_rebel && playerSide == civilian'];  this addAction[""Rebel Weapon Shop"",life_fnc_weaponShopMenu,""rebel"",0,false,false,"""",' license_civ_rebel && playerSide == civilian'];  this addAction[format[""%1 ($%2)"",[""license_civ_rebel""] call life_fnc_varToStr,[([""rebel""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""rebel"",0,false,false,"""",' !license_civ_rebel && playerSide == civilian ']; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance'];";
 				};
 				class Item73
 				{
@@ -2485,7 +2485,7 @@ class Mission
 					vehicle="C_man_p_fugitive_F_asia";
 					skill=0.60000002;
 					text="carshop1_3_1";
-					init="this enableSimulation false; this allowDamage false; this addAction[""Hornbach"",life_fnc_weaponShopMenu,""genstore""];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""genstore""];";
 				};
 				class Item74
 				{
@@ -2541,7 +2541,7 @@ class Mission
 					vehicle="B_RangeMaster_F";
 					skill=0.60000002;
 					text="h1_3_3";
-					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Visiere und Sonstiges"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Praktikanten Laden"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Beamten Laden"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Kommisar Laden"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Haupt-Kommisar Laden"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""SEK Laden"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""GSG9 Laden"",life_fnc_weaponShopMenu,""cop_gsg""];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Equipamentos"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Aprendiz"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Recruta"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Policial"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Comandante"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""BOPE"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""COMANDANTE BOPE"",life_fnc_weaponShopMenu,""cop_gsg""];";
 				};
 				class Item79
 				{
@@ -2752,7 +2752,7 @@ class Mission
 					rank="COLONEL";
 					skill=0.60000002;
 					text="medic_1";
-					description="[WHITELIST] Sanitäter/ADAC 1";
+					description="[WHITELIST] Médico/Mecânico 1";
 				};
 				class Item1
 				{
@@ -2765,7 +2765,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="medic_3";
-					description="[WHITELIST] Sanitäter/ADAC 3";
+					description="[WHITELIST] Médico/Mecânico 3";
 				};
 				class Item2
 				{
@@ -2778,7 +2778,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="medic_4";
-					description="[WHITELIST] Sanitäter/ADAC 4";
+					description="[WHITELIST] Médico/Mecânico 4";
 				};
 				class Item3
 				{
@@ -2791,7 +2791,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="medic_2";
-					description="[WHITELIST] Sanitäter/ADAC 2";
+					description="[WHITELIST] Médico/Mecânico 2";
 				};
 				class Item4
 				{
@@ -2804,7 +2804,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="medic_5";
-					description="[WHITELIST] Sanitäter/ADAC 5";
+					description="[WHITELIST] Médico/Mecânico 5";
 				};
 				class Item5
 				{
@@ -2817,7 +2817,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="medic_6";
-					description="[WHITELIST] Sanitäter/ADAC 6";
+					description="[WHITELIST] Médico/Mecânico 6";
 				};
 				class Item6
 				{
@@ -2829,7 +2829,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="medic_7";
-					description="[WHITELIST] Sanitäter/ADAC 7";
+					description="[WHITELIST] Médico/Mecânico 7";
 				};
 				class Item7
 				{
@@ -2842,7 +2842,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="medic_8";
-					description="[WHITELIST] Sanitäter/ADAC 8";
+					description="[WHITELIST] Médico/Mecânico 8";
 				};
 				class Item8
 				{
@@ -2855,7 +2855,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="medic_9";
-					description="[WHITELIST] Sanitäter/ADAC 9";
+					description="[WHITELIST] Médico/Mecânico 9";
 				};
 				class Item9
 				{
@@ -2868,7 +2868,7 @@ class Mission
 					player="PLAY CDG";
 					skill=0.60000002;
 					text="medic_10";
-					description="[WHITELIST] Sanitäter/ADAC 10";
+					description="[WHITELIST] Médico/Mecânico 10";
 				};
 			};
 		};
@@ -2888,7 +2888,7 @@ class Mission
 					vehicle="B_RangeMaster_F";
 					leader=1;
 					skill=0.60000002;
-					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Visiere und Sonstiges"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Praktikanten Laden"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Beamten Laden"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Kommisar Laden"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Haupt-Kommisar Laden"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""SEK Laden"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""GSG9 Laden"",life_fnc_weaponShopMenu,""cop_gsg""];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Equipamentos"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Aprendiz"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Recruta"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Policial"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Comandante"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""BOPE"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""COMANDANTE BOPE"",life_fnc_weaponShopMenu,""cop_gsg""];";
 				};
 			};
 		};
@@ -2909,7 +2909,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="reb_1_4";
-					init="removeallWeapons this;  this enableSimulation false;  this allowDamage false;  this addAction[""Rebel Clothing Shop"",life_fnc_clothingMenu,""reb"",0,false,false,"""",' license_civ_rebel && playerSide == civilian'];  this addAction[""Rebel Weapon Shop"",life_fnc_weaponShopMenu,""rebel"",0,false,false,"""",' license_civ_rebel && playerSide == civilian'];  this addAction[format[""%1 ($%2)"",[""license_civ_rebel""] call life_fnc_varToStr,[([""rebel""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""rebel"",0,false,false,"""",' !license_civ_rebel && playerSide == civilian ']; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+					init="removeallWeapons this;  this enableSimulation false;  this allowDamage false;  this addAction[""Rebel Clothing Shop"",life_fnc_clothingMenu,""reb"",0,false,false,"""",' license_civ_rebel && playerSide == civilian'];  this addAction[""Rebel Weapon Shop"",life_fnc_weaponShopMenu,""rebel"",0,false,false,"""",' license_civ_rebel && playerSide == civilian'];  this addAction[format[""%1 ($%2)"",[""license_civ_rebel""] call life_fnc_varToStr,[([""rebel""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""rebel"",0,false,false,"""",' !license_civ_rebel && playerSide == civilian ']; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
 				};
 				class Item1
 				{
@@ -2974,7 +2974,7 @@ class Mission
 					side="EAST";
 					vehicle="O_Soldier_F";
 					skill=0.60000002;
-					init="this enableSimulation false; this allowDamage false; this addAction[""Hornbach"",life_fnc_weaponShopMenu,""genstore""];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""genstore""];";
 				};
 			};
 		};
@@ -3016,7 +3016,7 @@ class Mission
 					side="WEST";
 					vehicle="B_RangeMaster_F";
 					skill=0.60000002;
-					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Visiere und Sonstiges"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Praktikanten Laden"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Beamten Laden"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Kommisar Laden"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Haupt-Kommisar Laden"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""SEK Laden"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""GSG9 Laden"",life_fnc_weaponShopMenu,""cop_gsg""];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Equipamentos"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Aprendiz"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Recruta"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Policial"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Comandante"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""BOPE"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""COMANDANTE BOPE"",life_fnc_weaponShopMenu,""cop_gsg""];";
 				};
 			};
 		};
@@ -3036,7 +3036,7 @@ class Mission
 					vehicle="C_man_1";
 					leader=1;
 					skill=0.60000002;
-					init="this allowDamage false; this enableSimulation false; this addAction[""Donator Weapon Shop"",life_fnc_weaponShopMenu,""donator"",0,false,false,"""",' !isNil ""life_donator"" && (call life_donator) > 0 && playerSide == civilian']; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance']; this addAction[""Hornbach"",life_fnc_weaponShopMenu,""genstore""];";
+					init="this allowDamage false; this enableSimulation false; this addAction[""Armas"",life_fnc_weaponShopMenu,""donator"",0,false,false,"""",' !isNil ""life_donator"" && (call life_donator) > 0 && playerSide == civilian']; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Banking Insurance ($1,000)"",{if(life_atmcash > 1000) then {life_has_insurance = true; life_atmcash = life_atmcash - 1000};},"""",0,false,false,"""",'!life_has_insurance']; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""genstore""];";
 				};
 				class Item1
 				{
@@ -3070,7 +3070,7 @@ class Mission
 					vehicle="C_man_1";
 					skill=0.60000002;
 					text="donator_1";
-					init="this enableSimulation false; this allowDamage false; this addAction[""Donator Fahrzeuge"",life_fnc_vehicleShopMenu,[""donator_car"",civilian,[""donator_veh_1""],""civ"",""Donator Fahrzeug Shop""]];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""Veículos"",life_fnc_vehicleShopMenu,[""donator_car"",civilian,[""donator_veh_1""],""civ"",""Donator Fahrzeug Shop""]];";
 				};
 			};
 		};
@@ -3090,7 +3090,7 @@ class Mission
 					vehicle="C_scientist_F";
 					leader=1;
 					skill=0.60000002;
-					init="this enableSimulation false; this allowDamage false; this addAction[""Hornbach"",life_fnc_weaponShopMenu,""genstore""]; this addAction[""Kasse ausrauben"",life_fnc_robShops];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""genstore""]; this addAction[""Kasse ausrauben"",life_fnc_robShops];";
 				};
 			};
 		};
@@ -3111,7 +3111,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="carshop1_3_3_1";
-					init="this enableSimulation false; this allowDamage false; this addAction[""Hornbach"",life_fnc_weaponShopMenu,""genstore""];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""genstore""];";
 				};
 			};
 		};
@@ -3131,7 +3131,7 @@ class Mission
 					vehicle="B_RangeMaster_F";
 					leader=1;
 					skill=0.60000002;
-					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Visiere und Sonstiges"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Praktikanten Laden"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Beamten Laden"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Kommisar Laden"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Haupt-Kommisar Laden"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""SEK Laden"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""GSG9 Laden"",life_fnc_weaponShopMenu,""cop_gsg""];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Equipamentos"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Aprendiz"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Recruta"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Policial"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Comandante"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""BOPE"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""COMANDANTE BOPE"",life_fnc_weaponShopMenu,""cop_gsg""];";
 				};
 			};
 		};
@@ -3295,7 +3295,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_45";
-					description="Zivilist 45";
+					description="Civil 45";
 				};
 			};
 		};
@@ -3317,7 +3317,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_46";
-					description="Zivilist 46";
+					description="Civil 46";
 				};
 			};
 		};
@@ -3339,7 +3339,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_47";
-					description="Zivilist 47";
+					description="Civil 47";
 				};
 			};
 		};
@@ -3361,7 +3361,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_48";
-					description="Zivilist 48";
+					description="Civil 48";
 				};
 			};
 		};
@@ -3383,7 +3383,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_49";
-					description="Zivilist 49";
+					description="Civil 49";
 				};
 			};
 		};
@@ -3405,7 +3405,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_50";
-					description="Zivilist 50";
+					description="Civil 50";
 				};
 			};
 		};
@@ -3425,7 +3425,7 @@ class Mission
 					vehicle="B_RangeMaster_F";
 					leader=1;
 					skill=0.60000002;
-					init="this allowDamage false; this enableSimulation false; this addAction[""Artzbedarf"",life_fnc_virt_menu,""medic""]; this addAction[""Sanitäter/ADAC Items"",life_fnc_weaponShopMenu,""med_basic""]; this addAction[""Sanitätskleidung"",life_fnc_clothingMenu,""medic""];  this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Helicopter Shop"",life_fnc_vehicleShopMenu,[""med_air_1"",independent,""med_air_2"",""med"",""Kavala Hosptial""]]; this addAction[""Loja de Veículos"",life_fnc_vehicleShopMenu,[""med_shop"",independent,""med_car_2"",""med"",""Kavala Hosptial""]]; this addAction[""Garagem"",  {   [[getPlayerUID player,playerSide,""Car"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_car_2""; life_garage_type = ""Car"";  },"""",0,false,false,"""",'playerSide == independent'];  this addAction[""Guardar"",life_fnc_storeVehicle,"""",0,false,false,"""",'!life_garage_store']; this addAction[format[""%1 ($%2)"",[""license_med_air""] call life_fnc_varToStr,[([""mair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""medic"",0,false,false,"""",' !license_med_air && playerSide == independent '];  removeHeadgear this; removeBackpack this; removeGoggles this; removeVest this; removeUniform this;  this forceaddUniform ""U_O_OfficerUniform_ocamo"";this addAction[""Garagem"",  {[[getPlayerUID player,playerSide,""Car"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_car_3""; life_garage_type = ""Car"";},"""",0,false,false,"""",'playerSide == independent'];  this addAction[""Guardar"",life_fnc_storeVehicle,"""",0,false,false,"""",'!life_garage_store']; this addAction[format[""%1 ($%2)"",[""license_med_air""] call life_fnc_varToStr,[([""medic""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""medic"",0,false,false,"""",' !license_med_air && playerSide == independent']; removeHeadgear this; removeBackpack this; removeGoggles this; removeVest this; removeUniform this;  this forceaddUniform ""U_O_OfficerUniform_ocamo""; this addAction[""Garagem"",  {   [[getPlayerUID player,playerSide,""Air"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_air_2""; life_garage_type = ""Air"";  },"""",0,false,false,"""",'playerSide == independent'];";
+					init="this allowDamage false; this enableSimulation false; this addAction[""Mercado"",life_fnc_virt_menu,""medic""]; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""med_basic""]; this addAction[""Uniformes"",life_fnc_clothingMenu,""medic""];  this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Helicopter Shop"",life_fnc_vehicleShopMenu,[""med_air_1"",independent,""med_air_2"",""med"",""Kavala Hosptial""]]; this addAction[""Loja de Veículos"",life_fnc_vehicleShopMenu,[""med_shop"",independent,""med_car_2"",""med"",""Kavala Hosptial""]]; this addAction[""Garagem"",  {   [[getPlayerUID player,playerSide,""Car"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_car_2""; life_garage_type = ""Car"";  },"""",0,false,false,"""",'playerSide == independent'];  this addAction[""Guardar"",life_fnc_storeVehicle,"""",0,false,false,"""",'!life_garage_store']; this addAction[format[""%1 ($%2)"",[""license_med_air""] call life_fnc_varToStr,[([""mair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""medic"",0,false,false,"""",' !license_med_air && playerSide == independent '];  removeHeadgear this; removeBackpack this; removeGoggles this; removeVest this; removeUniform this;  this forceaddUniform ""U_O_OfficerUniform_ocamo"";this addAction[""Garagem"",  {[[getPlayerUID player,playerSide,""Car"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_car_3""; life_garage_type = ""Car"";},"""",0,false,false,"""",'playerSide == independent'];  this addAction[""Guardar"",life_fnc_storeVehicle,"""",0,false,false,"""",'!life_garage_store']; this addAction[format[""%1 ($%2)"",[""license_med_air""] call life_fnc_varToStr,[([""medic""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""medic"",0,false,false,"""",' !license_med_air && playerSide == independent']; removeHeadgear this; removeBackpack this; removeGoggles this; removeVest this; removeUniform this;  this forceaddUniform ""U_O_OfficerUniform_ocamo""; this addAction[""Garagem"",  {   [[getPlayerUID player,playerSide,""Air"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_air_2""; life_garage_type = ""Air"";  },"""",0,false,false,"""",'playerSide == independent'];";
 				};
 			};
 		};
@@ -4135,7 +4135,7 @@ class Mission
 					vehicle="B_RangeMaster_F";
 					leader=1;
 					skill=0.60000002;
-					init="this allowDamage false; this enableSimulation false;  this addAction[""Artzbedarf"",life_fnc_virt_menu,""medic""]; this addAction[""Sanitäter/ADAC Items"",life_fnc_weaponShopMenu,""med_basic""]; this addAction[""Sanitätskleidung"",life_fnc_clothingMenu,""medic""];  this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Helicopter Shop"",life_fnc_vehicleShopMenu,[""med_air_1"",independent,""med_air_3"",""med"",""Kavala Hosptial""]]; this addAction[""Loja de Veículos"",life_fnc_vehicleShopMenu,[""med_shop"",independent,""med_car_3"",""med"",""Kavala Hosptial""]]; this addAction[""Garagem"",  {[[getPlayerUID player,playerSide,""Car"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_car_3""; life_garage_type = ""Car"";},"""",0,false,false,"""",'playerSide == independent'];  this addAction[""Guardar"",life_fnc_storeVehicle,"""",0,false,false,"""",'!life_garage_store']; this addAction[format[""%1 ($%2)"",[""license_med_air""] call life_fnc_varToStr,[([""medic""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""medic"",0,false,false,"""",' !license_med_air && playerSide == independent']; removeHeadgear this; removeBackpack this; removeGoggles this; removeVest this; removeUniform this;  this forceaddUniform ""U_O_OfficerUniform_ocamo""; this addAction[""Garagem"",  {   [[getPlayerUID player,playerSide,""Air"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_air_3""; life_garage_type = ""Air"";  },"""",0,false,false,"""",'playerSide == independent'];";
+					init="this allowDamage false; this enableSimulation false;  this addAction[""Mercado"",life_fnc_virt_menu,""medic""]; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""med_basic""]; this addAction[""Uniformes"",life_fnc_clothingMenu,""medic""];  this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Helicopter Shop"",life_fnc_vehicleShopMenu,[""med_air_1"",independent,""med_air_3"",""med"",""Kavala Hosptial""]]; this addAction[""Loja de Veículos"",life_fnc_vehicleShopMenu,[""med_shop"",independent,""med_car_3"",""med"",""Kavala Hosptial""]]; this addAction[""Garagem"",  {[[getPlayerUID player,playerSide,""Car"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_car_3""; life_garage_type = ""Car"";},"""",0,false,false,"""",'playerSide == independent'];  this addAction[""Guardar"",life_fnc_storeVehicle,"""",0,false,false,"""",'!life_garage_store']; this addAction[format[""%1 ($%2)"",[""license_med_air""] call life_fnc_varToStr,[([""medic""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""medic"",0,false,false,"""",' !license_med_air && playerSide == independent']; removeHeadgear this; removeBackpack this; removeGoggles this; removeVest this; removeUniform this;  this forceaddUniform ""U_O_OfficerUniform_ocamo""; this addAction[""Garagem"",  {   [[getPlayerUID player,playerSide,""Air"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_air_3""; life_garage_type = ""Air"";  },"""",0,false,false,"""",'playerSide == independent'];";
 				};
 			};
 		};
@@ -4216,7 +4216,7 @@ class Mission
 					vehicle="B_RangeMaster_F";
 					leader=1;
 					skill=0.60000002;
-					init="this allowDamage false; this enableSimulation false; this addAction[""ADAC-Bedarf"",life_fnc_virt_menu,""medic""]; this addAction[""ADAC Items"",life_fnc_weaponShopMenu,""adac_basic""]; this addAction[""ADAC Dienstkleidung"",life_fnc_clothingMenu,""medic"",0,false,false,"""",' license_med_adac && playerSide == independent'];  this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Helicopter Shop"",life_fnc_vehicleShopMenu,[""med_air_1"",independent,""med_air_4"",""med"",""Kavala Hosptial""],0,false,false,"""",'license_med_adac']; this addAction[""Loja de Veículos"",life_fnc_vehicleShopMenu,[""med_shop"",independent,""med_car_4"",""med"",""Kavala Hosptial""],0,false,false,"""",'license_med_adac']; this addAction[""Garagem"",  {[[getPlayerUID player,playerSide,""Car"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_car_4""; life_garage_type = ""Car"";},"""",0,false,false,"""",'playerSide == independent'];  this addAction[""Guardar"",life_fnc_storeVehicle,"""",0,false,false,"""",'!life_garage_store']; removeHeadgear this; removeBackpack this; removeGoggles this; removeVest this; removeUniform this;  this forceaddUniform ""U_O_OfficerUniform_ocamo"";this addAction[""Garagem"",  {[[getPlayerUID player,playerSide,""Car"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_car_3""; life_garage_type = ""Car"";},"""",0,false,false,"""",'playerSide == independent'];  this addAction[""Guardar"",life_fnc_storeVehicle,"""",0,false,false,"""",'!life_garage_store']; this addAction[format[""%1 ($%2)"",[""license_med_air""] call life_fnc_varToStr,[([""medic""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""medic"",0,false,false,"""",' !license_med_air && playerSide == independent']; removeHeadgear this; removeBackpack this; removeGoggles this; removeVest this; removeUniform this;  this forceaddUniform ""U_O_OfficerUniform_ocamo""; this addAction[""Garagem"",  {   [[getPlayerUID player,playerSide,""Air"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_air_4""; life_garage_type = ""Air"";  },"""",0,false,false,"""",'playerSide == independent'];";
+					init="this allowDamage false; this enableSimulation false; this addAction[""Mercado"",life_fnc_virt_menu,""medic""]; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""adac_basic""]; this addAction[""Uniformes"",life_fnc_clothingMenu,""medic"",0,false,false,"""",' license_med_adac && playerSide == independent'];  this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Helicopter Shop"",life_fnc_vehicleShopMenu,[""med_air_1"",independent,""med_air_4"",""med"",""Kavala Hosptial""],0,false,false,"""",'license_med_adac']; this addAction[""Loja de Veículos"",life_fnc_vehicleShopMenu,[""med_shop"",independent,""med_car_4"",""med"",""Kavala Hosptial""],0,false,false,"""",'license_med_adac']; this addAction[""Garagem"",  {[[getPlayerUID player,playerSide,""Car"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_car_4""; life_garage_type = ""Car"";},"""",0,false,false,"""",'playerSide == independent'];  this addAction[""Guardar"",life_fnc_storeVehicle,"""",0,false,false,"""",'!life_garage_store']; removeHeadgear this; removeBackpack this; removeGoggles this; removeVest this; removeUniform this;  this forceaddUniform ""U_O_OfficerUniform_ocamo"";this addAction[""Garagem"",  {[[getPlayerUID player,playerSide,""Car"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_car_3""; life_garage_type = ""Car"";},"""",0,false,false,"""",'playerSide == independent'];  this addAction[""Guardar"",life_fnc_storeVehicle,"""",0,false,false,"""",'!life_garage_store']; this addAction[format[""%1 ($%2)"",[""license_med_air""] call life_fnc_varToStr,[([""medic""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""medic"",0,false,false,"""",' !license_med_air && playerSide == independent']; removeHeadgear this; removeBackpack this; removeGoggles this; removeVest this; removeUniform this;  this forceaddUniform ""U_O_OfficerUniform_ocamo""; this addAction[""Garagem"",  {   [[getPlayerUID player,playerSide,""Air"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_air_4""; life_garage_type = ""Air"";  },"""",0,false,false,"""",'playerSide == independent'];";
 				};
 			};
 		};
@@ -4478,7 +4478,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_51";
-					description="Zivilist 51";
+					description="Civil 51";
 				};
 			};
 		};
@@ -4500,7 +4500,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_52";
-					description="Zivilist 52";
+					description="Civil 52";
 				};
 			};
 		};
@@ -4522,7 +4522,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_53";
-					description="Zivilist 53";
+					description="Civil 53";
 				};
 			};
 		};
@@ -4544,7 +4544,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_54";
-					description="Zivilist 54";
+					description="Civil 54";
 				};
 			};
 		};
@@ -4566,7 +4566,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_55";
-					description="Zivilist 55";
+					description="Civil 55";
 				};
 			};
 		};
@@ -4819,7 +4819,7 @@ class Mission
 					vehicle="B_RangeMaster_F";
 					leader=1;
 					skill=0.60000002;
-					init="this allowDamage false; this enableSimulation false; this addAction[""ADAC-Bedarf"",life_fnc_virt_menu,""medic""]; this addAction[""ADAC Items"",life_fnc_weaponShopMenu,""adac_basic""]; this addAction[""ADAC Dienstkleidung"",life_fnc_clothingMenu,""medic"",0,false,false,"""",' license_med_adac && playerSide == independent'];  this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Helicopter Shop"",life_fnc_vehicleShopMenu,[""med_air_1"",independent,""med_air_1"",""med"",""Kavala Hosptial""],0,false,false,"""",'license_med_adac']; this addAction[""Loja de Veículos"",life_fnc_vehicleShopMenu,[""med_shop"",independent,""med_car_5"",""med"",""Kavala Hosptial""],0,false,false,"""",'license_med_adac']; this addAction[""Garagem"",  {[[getPlayerUID player,playerSide,""Car"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_car_5""; life_garage_type = ""Car"";},"""",0,false,false,"""",'playerSide == independent'];  this addAction[""Guardar"",life_fnc_storeVehicle,"""",0,false,false,"""",'!life_garage_store']; removeHeadgear this; removeBackpack this; removeGoggles this; removeVest this; removeUniform this;  this forceaddUniform ""U_O_OfficerUniform_ocamo""; this addAction[""Garagem"",  {[[getPlayerUID player,playerSide,""Car"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_car_3""; life_garage_type = ""Car"";},"""",0,false,false,"""",'playerSide == independent'];  this addAction[""Guardar"",life_fnc_storeVehicle,"""",0,false,false,"""",'!life_garage_store']; this addAction[format[""%1 ($%2)"",[""license_med_air""] call life_fnc_varToStr,[([""medic""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""medic"",0,false,false,"""",' !license_med_air && playerSide == independent']; removeHeadgear this; removeBackpack this; removeGoggles this; removeVest this; removeUniform this;  this forceaddUniform ""U_O_OfficerUniform_ocamo""; this addAction[""Garagem"",  {   [[getPlayerUID player,playerSide,""Air"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_air_1""; life_garage_type = ""Air"";  },"""",0,false,false,"""",'playerSide == independent'];";
+					init="this allowDamage false; this enableSimulation false; this addAction[""Mercado"",life_fnc_virt_menu,""medic""]; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""adac_basic""]; this addAction[""Uniformes"",life_fnc_clothingMenu,""medic"",0,false,false,"""",' license_med_adac && playerSide == independent'];  this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Helicopter Shop"",life_fnc_vehicleShopMenu,[""med_air_1"",independent,""med_air_1"",""med"",""Kavala Hosptial""],0,false,false,"""",'license_med_adac']; this addAction[""Loja de Veículos"",life_fnc_vehicleShopMenu,[""med_shop"",independent,""med_car_5"",""med"",""Kavala Hosptial""],0,false,false,"""",'license_med_adac']; this addAction[""Garagem"",  {[[getPlayerUID player,playerSide,""Car"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_car_5""; life_garage_type = ""Car"";},"""",0,false,false,"""",'playerSide == independent'];  this addAction[""Guardar"",life_fnc_storeVehicle,"""",0,false,false,"""",'!life_garage_store']; removeHeadgear this; removeBackpack this; removeGoggles this; removeVest this; removeUniform this;  this forceaddUniform ""U_O_OfficerUniform_ocamo""; this addAction[""Garagem"",  {[[getPlayerUID player,playerSide,""Car"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_car_3""; life_garage_type = ""Car"";},"""",0,false,false,"""",'playerSide == independent'];  this addAction[""Guardar"",life_fnc_storeVehicle,"""",0,false,false,"""",'!life_garage_store']; this addAction[format[""%1 ($%2)"",[""license_med_air""] call life_fnc_varToStr,[([""medic""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""medic"",0,false,false,"""",' !license_med_air && playerSide == independent']; removeHeadgear this; removeBackpack this; removeGoggles this; removeVest this; removeUniform this;  this forceaddUniform ""U_O_OfficerUniform_ocamo""; this addAction[""Garagem"",  {   [[getPlayerUID player,playerSide,""Air"",player],""TON_fnc_getVehicles"",false,false] spawn life_fnc_MP;   createDialog ""Life_impound_menu"";   disableSerialization;   ctrlSetText[2802,""Fetching Vehicles....""];   life_garage_sp = ""med_air_1""; life_garage_type = ""Air"";  },"""",0,false,false,"""",'playerSide == independent'];";
 				};
 			};
 		};
@@ -4971,7 +4971,7 @@ class Mission
 					side="GUER";
 					vehicle="i_soldier_unarmed_f";
 					skill=0.60000002;
-					init="this enableSimulation false; this allowDamage false; this addAction[""Söldner Fahrzeuge"",life_fnc_vehicleShopMenu,[""soldner_1"",civilian,[""soldner_8""],""civ"",""Söldner Fahrzeug Shop""]];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""Veículos Mercenários"",life_fnc_vehicleShopMenu,[""soldner_1"",civilian,[""soldner_8""],""civ"",""Söldner Fahrzeug Shop""]];";
 				};
 				class Item2
 				{
@@ -5002,7 +5002,7 @@ class Mission
 					vehicle="i_soldier_unarmed_f";
 					leader=1;
 					skill=0.60000002;
-					init="this allowDamage false; this enableSimulation false; this addAction[""Mercado"",life_fnc_virt_menu,""market""]; this addAction[""Hornbach"",life_fnc_weaponShopMenu,""genstore""]; this setVariable[""realname"",""Mercado""];";
+					init="this allowDamage false; this enableSimulation false; this addAction[""Mercado"",life_fnc_virt_menu,""market""]; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""genstore""]; this setVariable[""realname"",""Mercado""];";
 				};
 				class Item1
 				{
@@ -5075,7 +5075,7 @@ class Mission
 					leader=1;
 					rank="COLONEL";
 					skill=0.60000002;
-					init="this allowDamage false; this enableSimulation false; this addAction[""Söldner Waffen Shop"",life_fnc_weaponShopMenu,""donator"",0,false,false,"""",' !isNil ""life_donator"" && (call life_donator) > 0 && playerSide == civilian'];this addAction[""Söldner Kleider Laden"",life_fnc_clothingMenu,""soldner"",0,false,false,"""",' !isNil ""life_donator"" && (call life_donator) > 0 && playerSide == civilian']; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu];";
+					init="this allowDamage false; this enableSimulation false; this addAction[""Armas"",life_fnc_weaponShopMenu,""donator"",0,false,false,"""",' !isNil ""life_donator"" && (call life_donator) > 0 && playerSide == civilian'];this addAction[""Roupas Laden"",life_fnc_clothingMenu,""soldner"",0,false,false,"""",' !isNil ""life_donator"" && (call life_donator) > 0 && playerSide == civilian']; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu];";
 				};
 			};
 		};
@@ -5177,7 +5177,7 @@ class Mission
 					rank="COLONEL";
 					skill=0.60000002;
 					text="so_weapon_1_3";
-					init="this allowDamage false; this enableSimulation false; this addAction[""Söldner Waffen Shop"",life_fnc_weaponShopMenu,""donator"",0,false,false,"""",' !isNil ""life_donator"" && (call life_donator) > 0 && playerSide == civilian'];this addAction[""Söldner Kleider Laden"",life_fnc_clothingMenu,""soldner"",0,false,false,"""",' !isNil ""life_donator"" && (call life_donator) > 0 && playerSide == civilian']; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu];";
+					init="this allowDamage false; this enableSimulation false; this addAction[""Armas"",life_fnc_weaponShopMenu,""donator"",0,false,false,"""",' !isNil ""life_donator"" && (call life_donator) > 0 && playerSide == civilian'];this addAction[""Roupas Laden"",life_fnc_clothingMenu,""soldner"",0,false,false,"""",' !isNil ""life_donator"" && (call life_donator) > 0 && playerSide == civilian']; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu];";
 				};
 				class Item1
 				{
@@ -5200,7 +5200,7 @@ class Mission
 					side="GUER";
 					vehicle="i_soldier_unarmed_f";
 					skill=0.60000002;
-					init="this enableSimulation false; this allowDamage false; this addAction[""Hornbach"",life_fnc_weaponShopMenu,""genstore""];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""genstore""];";
 				};
 				class Item3
 				{
@@ -5223,7 +5223,7 @@ class Mission
 					vehicle="i_soldier_unarmed_f";
 					skill=0.60000002;
 					text="soldner_vehicle_1";
-					init="this enableSimulation false; this allowDamage false; this addAction[""Söldner Fahrzeuge"",life_fnc_vehicleShopMenu,[""soldner_1"",civilian,[""soldner_1""],""civ"",""Söldner Fahrzeug Shop""]];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""Veículos Mercenários"",life_fnc_vehicleShopMenu,[""soldner_1"",civilian,[""soldner_1""],""civ"",""Söldner Fahrzeug Shop""]];";
 				};
 			};
 		};
@@ -5325,7 +5325,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="h1_3_2_1";
-					init="this enableSimulation false; this allowDamage false;  this addAction[""Polizeihändler"",life_fnc_virt_menu,""cop""];  this addAction[""Polizistenbekleidung"",life_fnc_clothingMenu,""cop""];  this addAction[""Polizei Zubehoer"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Polizeiwaffen"",life_fnc_weaponShopMenu,""cop_waffen""];  this addAction[""SEK-Waffen"",life_fnc_weaponShopMenu,""cop_sek""];  this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west '];  this setVariable[""realname"",""Polizeihandel""];";
+					init="this enableSimulation false; this allowDamage false;  this addAction[""Negociador Policia"",life_fnc_virt_menu,""cop""];  this addAction[""Uniforme"",life_fnc_clothingMenu,""cop""];  this addAction[""Acessórios"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Polizeiwaffen"",life_fnc_weaponShopMenu,""cop_waffen""];  this addAction[""SEK-Waffen"",life_fnc_weaponShopMenu,""cop_sek""];  this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west '];  this setVariable[""realname"",""Polizeihandel""];";
 				};
 				class Item1
 				{
@@ -5377,7 +5377,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="h1_3_3_1";
-					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Visiere und Sonstiges"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Praktikanten Laden"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Beamten Laden"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Kommisar Laden"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Haupt-Kommisar Laden"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""SEK Laden"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""GSG9 Laden"",life_fnc_weaponShopMenu,""cop_gsg""];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Equipamentos"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Aprendiz"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Recruta"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Policial"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Comandante"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""BOPE"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""COMANDANTE BOPE"",life_fnc_weaponShopMenu,""cop_gsg""];";
 				};
 				class Item1
 				{
@@ -5449,7 +5449,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="h1_3_3_2";
-					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Visiere und Sonstiges"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Praktikanten Laden"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Beamten Laden"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Kommisar Laden"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Haupt-Kommisar Laden"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""SEK Laden"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""GSG9 Laden"",life_fnc_weaponShopMenu,""cop_gsg""];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 ']; this addAction[""Item Shop"",life_fnc_virt_menu,""cop""];  this allowDamage false; this addAction[""Equipamentos"",life_fnc_weaponShopMenu,""cop_visier""]; this addAction[""Loja de Roupas"",life_fnc_clothingMenu,""cop""];  this addAction[""Aprendiz"",life_fnc_weaponShopMenu,""cop_basic""];  this addAction[""Recruta"",life_fnc_weaponShopMenu,""cop_patrol""]; this addAction[format[""%1 ($%2)"",[""license_cop_air""] call life_fnc_varToStr,[([""cair""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cair"",0,false,false,"""",' !license_cop_air && playerSide == west ']; this addAction[format[""%1 ($%2)"",[""license_cop_cg""] call life_fnc_varToStr,[([""cg""] call life_fnc_licensePrice)] call life_fnc_numberText],life_fnc_buyLicense,""cg"",0,false,false,"""",' !license_cop_cg && playerSide == west ']; this addAction[""Policial"",life_fnc_weaponShopMenu,""cop_sergeant""]; this addAction[""Comandante"",life_fnc_weaponShopMenu,""cop_kommisar""]; this addAction[""BOPE"",life_fnc_weaponShopMenu,""cop_sek""]; this addAction[""COMANDANTE BOPE"",life_fnc_weaponShopMenu,""cop_gsg""];";
 				};
 				class Item1
 				{
@@ -5520,7 +5520,7 @@ class Mission
 					vehicle="C_scientist_F";
 					leader=1;
 					skill=0.60000002;
-					init="this enableSimulation false; this allowDamage false; this addAction[""Hornbach"",life_fnc_weaponShopMenu,""genstore""]; this addAction[""Kasse ausrauben"",life_fnc_robShops];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""genstore""]; this addAction[""Kasse ausrauben"",life_fnc_robShops];";
 				};
 			};
 		};
@@ -5540,7 +5540,7 @@ class Mission
 					vehicle="C_scientist_F";
 					leader=1;
 					skill=0.60000002;
-					init="this enableSimulation false; this allowDamage false; this addAction[""Hornbach"",life_fnc_weaponShopMenu,""genstore""]; this addAction[""Kasse ausrauben"",life_fnc_robShops];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""genstore""]; this addAction[""Kasse ausrauben"",life_fnc_robShops];";
 				};
 			};
 		};
@@ -5560,7 +5560,7 @@ class Mission
 					vehicle="C_scientist_F";
 					leader=1;
 					skill=0.60000002;
-					init="this enableSimulation false; this allowDamage false; this addAction[""Hornbach"",life_fnc_weaponShopMenu,""genstore""]; this addAction[""Kasse ausrauben"",life_fnc_robShops];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""genstore""]; this addAction[""Kasse ausrauben"",life_fnc_robShops];";
 				};
 			};
 		};
@@ -5580,7 +5580,7 @@ class Mission
 					vehicle="C_scientist_F";
 					leader=1;
 					skill=0.60000002;
-					init="this enableSimulation false; this allowDamage false; this addAction[""Hornbach"",life_fnc_weaponShopMenu,""genstore""]; this addAction[""Kasse ausrauben"",life_fnc_robShops];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""genstore""]; this addAction[""Kasse ausrauben"",life_fnc_robShops];";
 				};
 			};
 		};
@@ -5600,7 +5600,7 @@ class Mission
 					vehicle="C_scientist_F";
 					leader=1;
 					skill=0.60000002;
-					init="this enableSimulation false; this allowDamage false; this addAction[""Hornbach"",life_fnc_weaponShopMenu,""genstore""]; this addAction[""Kasse ausrauben"",life_fnc_robShops];";
+					init="this enableSimulation false; this allowDamage false; this addAction[""Utilitários"",life_fnc_weaponShopMenu,""genstore""]; this addAction[""Kasse ausrauben"",life_fnc_robShops];";
 				};
 			};
 		};
@@ -5642,7 +5642,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_56";
-					description="Zivilist 56";
+					description="Civil 56";
 				};
 			};
 		};
@@ -5664,7 +5664,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_57";
-					description="Zivilist 57";
+					description="Civil 57";
 				};
 			};
 		};
@@ -5686,7 +5686,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_58";
-					description="Zivilist 58";
+					description="Civil 58";
 				};
 			};
 		};
@@ -5708,7 +5708,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_59";
-					description="Zivilist 59";
+					description="Civil 59";
 				};
 			};
 		};
@@ -5730,7 +5730,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_60";
-					description="Zivilist 60";
+					description="Civil 60";
 				};
 			};
 		};
@@ -5752,7 +5752,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_61";
-					description="Zivilist 61";
+					description="Civil 61";
 				};
 			};
 		};
@@ -5774,7 +5774,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_62";
-					description="Zivilist 62";
+					description="Civil 62";
 				};
 			};
 		};
@@ -5796,7 +5796,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_63";
-					description="Zivilist 63";
+					description="Civil 63";
 				};
 			};
 		};
@@ -5818,7 +5818,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_64";
-					description="Zivilist 64";
+					description="Civil 64";
 				};
 			};
 		};
@@ -5840,7 +5840,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_65";
-					description="Zivilist 65";
+					description="Civil 65";
 				};
 			};
 		};
@@ -5862,7 +5862,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_66";
-					description="Zivilist 66";
+					description="Civil 66";
 				};
 			};
 		};
@@ -5884,7 +5884,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_67";
-					description="Zivilist 67";
+					description="Civil 67";
 				};
 			};
 		};
@@ -5906,7 +5906,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_68";
-					description="Zivilist 68";
+					description="Civil 68";
 				};
 			};
 		};
@@ -5928,7 +5928,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_70";
-					description="Zivilist 70";
+					description="Civil 70";
 				};
 			};
 		};
@@ -5950,7 +5950,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_69";
-					description="Zivilist 69";
+					description="Civil 69";
 				};
 			};
 		};
@@ -5972,7 +5972,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_71";
-					description="Zivilist 71";
+					description="Civil 71";
 				};
 			};
 		};
@@ -5994,7 +5994,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_72";
-					description="Zivilist 72";
+					description="Civil 72";
 				};
 			};
 		};
@@ -6016,7 +6016,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_73";
-					description="Zivilist 73";
+					description="Civil 73";
 				};
 			};
 		};
@@ -6038,7 +6038,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_74";
-					description="Zivilist 74";
+					description="Civil 74";
 				};
 			};
 		};
@@ -6060,7 +6060,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_75";
-					description="Zivilist 75";
+					description="Civil 75";
 				};
 			};
 		};
@@ -6082,7 +6082,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_76";
-					description="Zivilist 76";
+					description="Civil 76";
 				};
 			};
 		};
@@ -6104,7 +6104,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_77";
-					description="Zivilist 77";
+					description="Civil 77";
 				};
 			};
 		};
@@ -6126,7 +6126,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_78";
-					description="Zivilist 78";
+					description="Civil 78";
 				};
 			};
 		};
@@ -6148,7 +6148,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_80";
-					description="Zivilist 80";
+					description="Civil 80";
 				};
 			};
 		};
@@ -6170,7 +6170,7 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="civ_79";
-					description="Zivilist 79";
+					description="Civil 79";
 				};
 			};
 		};
@@ -6420,7 +6420,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
 		};
 		class Item16
 		{
@@ -6430,7 +6430,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
 		};
 		class Item17
 		{
@@ -6440,7 +6440,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
 		};
 		class Item18
 		{
@@ -6452,7 +6452,7 @@ class Mission
 			vehicle="Land_Atm_01_F";
 			skill=0.60000002;
 			text="a1";
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
 		};
 		class Item19
 		{
@@ -6462,7 +6462,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
 		};
 		class Item20
 		{
@@ -6472,7 +6472,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
 		};
 		class Item21
 		{
@@ -6482,7 +6482,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
 		};
 		class Item22
 		{
@@ -6492,7 +6492,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
 		};
 		class Item23
 		{
@@ -6502,7 +6502,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
 		};
 		class Item24
 		{
@@ -6512,7 +6512,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
 		};
 		class Item25
 		{
@@ -6522,7 +6522,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
 		};
 		class Item26
 		{
@@ -6532,7 +6532,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
 		};
 		class Item27
 		{
@@ -6542,7 +6542,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
 		};
 		class Item28
 		{
@@ -10206,7 +10206,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
 		};
 		class Item413
 		{
@@ -48330,7 +48330,7 @@ class Mission
 			side="EMPTY";
 			vehicle="Land_Atm_02_F";
 			skill=0.60000002;
-			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>BANK</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
+			init="this enableSimulation false; this allowDamage false; this addAction[""<t color='#ADFF2F'>Caixa Eletrônico</t>"",life_fnc_atmMenu,"""",0,FALSE,FALSE,"""",' vehicle player == player && player distance _target < 4 '];";
 		};
 		class Item4288
 		{

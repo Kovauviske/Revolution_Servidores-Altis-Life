@@ -263,12 +263,12 @@ player createDiarySubject ["controls","Controles"];
 			"Patentes",
 				"
 				Patentes:<br/>
-				1. Recruta<br/>
-				2. Policial<br/>
-				3. Delegado<br/>
-				4. Recruta Bope<br/>
+				1. Aprendiz<br/>
+				2. Recruta<br/>
+				3. Policial<br/>
+				4. Comandante<br/>
 				5. Bope<br/>
-				6. Com. Bope<br/>
+				6. Comandante Bope<br/>
 				7. ADMINS<br/>
 				"
 		]
