@@ -1,4 +1,4 @@
-﻿version=12;
+version=12;
 class Mission
 {
 	addOns[]=
@@ -152,6 +152,7 @@ class Mission
 		"A3_Structures_F_Kart_Signs_Companies",
 		"A3_Structures_F_Ind_AirPort",
 		"A3_Structures_F_Ind_Transmitter_Tower",
+		"A3_Roads_F",
 		"A3_Structures_F_Civ_Offices",
 		"A3_Structures_F_Ind_SolarPowerPlant",
 		"A3_Structures_F_Mil_Barracks",
@@ -178,7 +179,6 @@ class Mission
 		"A3_Structures_F_Civ_Dead",
 		"A3_Structures_F_EPB_Civ_Camping",
 		"A3_Structures_F_Bootcamp_Civ_Camping",
-		"a3_roads_f",
 		"A3_Structures_F_Mil_TentHangar",
 		"A3_Structures_F_EPB_Items_Vessels",
 		"A3_Structures_F_EPB_Furniture",
@@ -51067,7 +51067,7 @@ class Mission
 	};
 	class Sensors
 	{
-		items=17;
+		items=27;
 		class Item0
 		{
 			position[]={11600.893,23.581831,11988.648};
@@ -51359,6 +51359,156 @@ class Mission
 			age="UNKNOWN";
 			expCond="this && (speed player) > 50 && {_x iskindof ""car""} count thislist > 0 && (vehicle player) in thislist && (driver vehicle player == player)";
 			expActiv="nul = [[player,speed player,80],""life_fnc_radarCam"",player,false] spawn life_fnc_MP;";
+			class Effects
+			{
+			};
+		};
+		class Item17
+		{
+			position[]={3230.6196,-0.012287823,12895.019};
+			a=150;
+			b=60;
+			angle=334.008;
+			activationBy="CIV";
+			interruptable=1;
+			age="UNKNOWN";
+			expCond="this && (local player) && (vehicle player in thisList)";
+			expActiv="hint ""VOCÊ ESTÁ ENTRANDO EM UMA ÁREA RESTRITA, SE AFASTE OU PODERÁ SER PRESO.""";
+			class Effects
+			{
+			};
+		};
+		class Item18
+		{
+			position[]={3575.6016,9.3506699,13057.215};
+			a=500;
+			b=500;
+			angle=334.008;
+			activationBy="ANY";
+			interruptable=1;
+			age="UNKNOWN";
+			expCond="this && (local player) && (vehicle player in thisList)";
+			expActiv="hint ""VOCÊ ENTROU EM UMA AREA SEGURA. NAO COMETA CRIMES, VOCE SERA PUNIDO CASO DESRESPEITE""";
+			class Effects
+			{
+			};
+		};
+		class Item19
+		{
+			position[]={16587.439,35.353512,18993.994};
+			a=150;
+			b=60;
+			angle=131.05376;
+			activationBy="CIV";
+			interruptable=1;
+			age="UNKNOWN";
+			expCond="this && (local player) && (vehicle player in thisList)";
+			expActiv="hint ""VOCÊ ESTÁ ENTRANDO EM UMA ÁREA RESTRITA, SE AFASTE OU PODERÁ SER PRESO.""";
+			class Effects
+			{
+			};
+		};
+		class Item20
+		{
+			position[]={14218.285,16.96172,18185.141};
+			a=40;
+			b=60;
+			angle=142.16205;
+			activationBy="CIV";
+			interruptable=1;
+			age="UNKNOWN";
+			expCond="this && (local player) && (vehicle player in thisList)";
+			expActiv="hint ""VOCÊ ESTÁ ENTRANDO EM UMA ÁREA RESTRITA, SE AFASTE OU PODERÁ SER PRESO.""";
+			class Effects
+			{
+			};
+		};
+		class Item21
+		{
+			position[]={16592.967,11,12778.518};
+			a=80;
+			b=80;
+			angle=142.162;
+			activationBy="CIV";
+			interruptable=1;
+			age="UNKNOWN";
+			expCond="this && (local player) && (vehicle player in thisList)";
+			expActiv="hint ""VOCÊ ESTÁ ENTRANDO EM UMA ÁREA RESTRITA, SE AFASTE OU PODERÁ SER PRESO.""";
+			class Effects
+			{
+			};
+		};
+		class Item22
+		{
+			position[]={23543,13.256621,19927.59};
+			a=80;
+			b=80;
+			angle=142.162;
+			activationBy="CIV";
+			interruptable=1;
+			age="UNKNOWN";
+			expCond="this && (local player) && (vehicle player in thisList)";
+			expActiv="hint ""VOCÊ ESTÁ ENTRANDO EM UMA ÁREA RESTRITA, SE AFASTE OU PODERÁ SER PRESO.""";
+			class Effects
+			{
+			};
+		};
+		class Item23
+		{
+			position[]={5145.1499,17.507607,14480.716};
+			a=80;
+			b=80;
+			angle=142.162;
+			activationBy="CIV";
+			interruptable=1;
+			age="UNKNOWN";
+			expCond="this && (local player) && (vehicle player in thisList)";
+			expActiv="hint ""VOCÊ ESTÁ ENTRANDO EM UMA ÁREA RESTRITA, SE AFASTE OU PODERÁ SER PRESO.""";
+			class Effects
+			{
+			};
+		};
+		class Item24
+		{
+			position[]={15792.515,14.208417,17428.438};
+			a=80;
+			b=80;
+			angle=142.162;
+			activationBy="CIV";
+			interruptable=1;
+			age="UNKNOWN";
+			expCond="this && (local player) && (vehicle player in thisList)";
+			expActiv="hint ""VOCÊ ESTÁ ENTRANDO EM UMA ÁREA RESTRITA, SE AFASTE OU PODERÁ SER PRESO.""";
+			class Effects
+			{
+			};
+		};
+		class Item25
+		{
+			position[]={18247.305,16.986734,17544.908};
+			a=80;
+			b=80;
+			angle=142.162;
+			activationBy="CIV";
+			interruptable=1;
+			age="UNKNOWN";
+			expCond="this && (local player) && (vehicle player in thisList)";
+			expActiv="hint ""VOCÊ ESTÁ ENTRANDO EM UMA ÁREA RESTRITA, SE AFASTE OU PODERÁ SER PRESO.""";
+			class Effects
+			{
+			};
+		};
+		class Item26
+		{
+			position[]={16848.605,12.114951,15468.998};
+			a=80;
+			b=80;
+			angle=142.162;
+			activationBy="CIV";
+			interruptable=1;
+			age="UNKNOWN";
+			expCond="this && (local player) && (vehicle player in thisList)";
+			expActiv="hint ""VOCÊ ESTÁ ENTRANDO EM UMA ÁREA RESTRITA, SE AFASTE OU PODERÁ SER PRESO.""";
 			class Effects
 			{
 			};
