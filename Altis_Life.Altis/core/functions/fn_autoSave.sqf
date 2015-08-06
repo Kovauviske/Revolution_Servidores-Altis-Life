@@ -5,5 +5,5 @@
 while {true} do {
 	sleep 1800;
 	[] call SOCK_fnc_updateRequest;
-	hint "Deine Spielerinformationen wurden automatisch zum Server gespeichert.\n\n Nächster AutoSave in: 30 Minuten"
+	hint "Suas informações foram automaticamente salvadas no servidor\n\n Próximo autosave em 30 minutos"
 };

@@ -21,7 +21,7 @@ switch (_classname) do
 		_veh setVehicleAmmo 0;
 		_veh setDamage 0;
 		_veh allowDamage true;
-        systemChat "Waffen entfernt und Repariert";
+        systemChat "Removido e Reparado";
     };
 	
 	//GhostHawk (Black)
@@ -31,7 +31,7 @@ switch (_classname) do
 		_veh setVehicleAmmo 0;
 		_veh setDamage 0;
 		_veh allowDamage true;
-        systemChat "Waffen entfernt und Repariert";
+        systemChat "Removido e Reparado";
     };
 
 	//GhostHawk (Camo)
@@ -41,7 +41,7 @@ switch (_classname) do
         _veh setVehicleAmmo 0;
 		_veh setDamage 0;
 		_veh allowDamage true;
-        systemChat "Waffen entfernt und Repariert";
+        systemChat "Removido e Reparado";
     };
 
 	//Hellcat (Unarmed)
@@ -51,7 +51,7 @@ switch (_classname) do
         _veh setVehicleAmmo 0;
 		_veh setDamage 0;
 		_veh allowDamage true;
-        systemChat "Waffen entfernt und Repariert";
+        systemChat "Removido e Reparado";
     };
 
 	//Ifrit
@@ -61,7 +61,7 @@ switch (_classname) do
         _veh setVehicleAmmo 0;
 		_veh setDamage 0;
 		_veh allowDamage true;
-        systemChat "Waffen entfernt und Repariert";
+        systemChat "Removido e Reparado";
     };
 
 	//Mohawk
@@ -71,7 +71,7 @@ switch (_classname) do
         _veh setVehicleAmmo 0;
 		_veh setDamage 0;
 		_veh allowDamage true;
-        systemChat "Waffen entfernt und Repariert";
+        systemChat "Removido e Reparado";
     };
 	
 	//MiniGun Boat
@@ -90,7 +90,7 @@ switch (_classname) do
 		_veh setVehicleAmmo 0;
 		_veh setDamage 0;
 		_veh allowDamage true;
-		systemChat "Waffen entfernt und Repariert";
+		systemChat "Removido e Reparado";
 	};
 };
 

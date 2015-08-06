@@ -35,7 +35,7 @@
 	
 	_fnc_battery =
 	{
-		if(life_battery < 2) then {hint "Deine Telefon Batterie ist leer.";}
+		if(life_battery < 2) then {hint "Seu telefone está sem bateria.";}
 		else
 		{
 			life_battery = life_battery - 5;
@@ -43,9 +43,9 @@
 			if(life_battery < 2) then {hint "Your battery is empty.";};
 			switch(life_battery) do 
 			{
-				case 30: {hint "Deine Handy Batterie hat nurnoch 30%.";};
-				case 20: {hint "Deine Handy Batterie hat nurnoch 20%.";};
-				case 10: {hint "Deine Handy Batterie hat nurnoch 10%.";};
+				case 30: {hint "A bateria do seu telefone está em 30%.";};
+				case 20: {hint "A bateria do seu telefone está em 20%.";};
+				case 10: {hint "A bateria do seu telefone está em 10%.";};
 			};
 		};
 	};
@@ -87,7 +87,7 @@
 		if(life_carryWeight > life_maxWeight && !isForcedWalk player) then {
 			player forceWalk true;
 			player setFatigue 1;
-			hint "Du trägst zu viel mit Dir ! Entferne ein paar Items dann kannst du wieder Rennen...";
+			hint "Você está muito pesado, remova alguns items para poder correr novamente.";
 		} else {
 			if(isForcedWalk player) then {
 				player forceWalk false;
@@ -164,7 +164,7 @@
 		if(life_inv_uranium2 != 0) then {
 			player forceWalk true;
 			player setFatigue 1;
-			hint "Das Uran ist so schwer das du dich nur sehr Langsam bewegen kannst !";
+			hint "O urânio está tão pesado que você só consegue andar devagar";
 		} else {
 			if(isForcedWalk player) then {
 				player forceWalk false;

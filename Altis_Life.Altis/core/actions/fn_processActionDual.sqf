@@ -72,18 +72,18 @@ if(_hasLicense) then
         if(_cP >= 1) exitWith {};
         if(player distance _vendor > 10) exitWith {};
     };
-    if(player distance _vendor > 10) exitWith {hint "Du mussst mindesten 10 Meter daneben stehen."; 5 cutText ["","PLAIN"]; life_is_processing = false;};
+    if(player distance _vendor > 10) exitWith {hint "Você deve estar a pelo menos 10 metros de distância"; 5 cutText ["","PLAIN"]; life_is_processing = false;};
     if(!([false,_oldItem1,_oldVal] call life_fnc_handleInv)) exitWith {5 cutText ["","PLAIN"]; life_is_processing = false;};
     if(!([false,_oldItem2,_oldVal] call life_fnc_handleInv)) exitWith {5 cutText ["","PLAIN"]; life_is_processing = false;};
     if(!([true,_newItem,_oldVal] call life_fnc_handleInv)) exitWith {5 cutText ["","PLAIN"]; [true,_oldItem1,_oldVal] call life_fnc_handleInv; [true,_oldItem2,_oldVal] call life_fnc_handleInv; life_is_processing = false;};
     5 cutText ["","PLAIN"];
-    titleText[format["Sie haben %1 %2",_oldVal,_itemName],"PLAIN"];
+    titleText[format["Eles tem %1 %2",_oldVal,_itemName],"PLAIN"];
     life_is_processing = false;
 }
     else
 {
 
-    if(life_cash < _cost) exitWith {hint format["Du benötigst $%1 für eine Lizenz",[_cost] call life_fnc_numberText]; 5 cutText ["","PLAIN"]; life_is_processing = false;};
+    if(life_cash < _cost) exitWith {hint format["Você precisa $%1 para uma licença",[_cost] call life_fnc_numberText]; 5 cutText ["","PLAIN"]; life_is_processing = false;};
     
     while{true} do
     {
@@ -94,13 +94,13 @@ if(_hasLicense) then
         if(_cP >= 1) exitWith {};
         if(player distance _vendor > 10) exitWith {};
     };
-    if(player distance _vendor > 10) exitWith {hint "Du mussst mindesten 10 Meter daneben stehen."; 5 cutText ["","PLAIN"]; life_is_processing = false;};
-    if(life_cash < _cost) exitWith {hint format["Du benötigst $%1 für eine Lizenz",[_cost] call life_fnc_numberText]; 5 cutText ["","PLAIN"]; life_is_processing = false;};
+    if(player distance _vendor > 10) exitWith {hint "Você deve estar a pelo menos 10 metros de distância"; 5 cutText ["","PLAIN"]; life_is_processing = false;};
+    if(life_cash < _cost) exitWith {hint format["Você precisa $%1 para uma licença",[_cost] call life_fnc_numberText]; 5 cutText ["","PLAIN"]; life_is_processing = false;};
     if(!([false,_oldItem1,_oldVal] call life_fnc_handleInv)) exitWith {5 cutText ["","PLAIN"]; life_is_processing = false;};
     if(!([false,_oldItem2,_oldVal] call life_fnc_handleInv)) exitWith {5 cutText ["","PLAIN"]; life_is_processing = false;};
     if(!([true,_newItem,_oldVal] call life_fnc_handleInv)) exitWith {5 cutText ["","PLAIN"]; [true,_oldItem1,_oldVal] call life_fnc_handleInv; [true,_oldItem2,_oldVal] call life_fnc_handleInv; life_is_processing = false;};
     5 cutText ["","PLAIN"];
-    titleText[format["Du hast %1 zu %2 umgewandelt und erhälst $%3",_oldVal,_itemName,[_cost] call life_fnc_numberText],"PLAIN"];
+    titleText[format["Você tem %1 para %2 convertidos e recebeu $%3",_oldVal,_itemName,[_cost] call life_fnc_numberText],"PLAIN"];
     life_cash = life_cash - _cost;
     life_is_processing = false;
 }; 
