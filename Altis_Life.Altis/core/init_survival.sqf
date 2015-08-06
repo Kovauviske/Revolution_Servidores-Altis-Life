@@ -202,11 +202,11 @@
 		{
 			if(uniform player == "U_I_HeliPilotCoveralls") then
 			{
-				hint "!!! ACHTUNG DIE ZONE IST RADIOAKTIV !!! Der Schutz-Anzug Schuetz sie vor der Strahlung !";
+				hint "!!! ATENÇÃO AREA COM RADIOATIVIDADE !!! Utilize equipamento de proteção !";
 				sleep 5;
 			}else
 			{
-				hint "!!! ACHTUNG DIE ZONE IST RADIOAKTIV !!! Sie werden gleich Sterben wenn sie keinen Strahlungsanzug tragen!";
+				hint "!!! ATENÇÃO AREA COM RADIOATIVIDADE !!! Risco de morte caso não utilize os trajes indicados.!";
 				_damage = damage player;
 				_damage = _damage + 0.1;
 				player setDamage (_damage);

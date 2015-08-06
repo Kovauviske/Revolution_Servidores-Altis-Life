@@ -2,14 +2,14 @@ waitUntil {!isNull player && player == player};
 if(player diarySubjectExists "rules")exitwith{};
 
 player createDiarySubject ["changelog","Changelog"];
-player createDiarySubject ["serverrules","Server Regeln"];
-player createDiarySubject ["policerules","Polizei Gesetze"];
-player createDiarySubject ["safezones","SafeZones"];
-//player createDiarySubject ["civrules","Civilian Rules"];
-player createDiarySubject ["illegalitems","Illegal"];
-//player createDiarySubject ["gangrules","Gang Rules"];
-//player createDiarySubject ["terrorrules","Terrorism Rules"];
-player createDiarySubject ["controls","Steuerung"];
+player createDiarySubject ["serverrules","Regras"];
+player createDiarySubject ["policerules","Regras Policia"];
+player createDiarySubject ["safezones","Areas Seguras"];
+//player createDiarySubject ["civrules","Regras Civil"];
+player createDiarySubject ["illegalitems","Ilegal"];
+//player createDiarySubject ["gangrules","Regras Gangue"];
+//player createDiarySubject ["terrorrules","Regras Terroristas"];
+player createDiarySubject ["controls","Controles"];
 
 /*  Example
 	player createDiaryRecord ["", //Container
@@ -32,9 +32,9 @@ player createDiarySubject ["controls","Steuerung"];
 	
 	player createDiaryRecord["changelog",
 		[
-			"SealDrop Changelog",
+			"Revolution Servidores Changelog",
 				"
-					Das Changelog kannst du unter HOMEPAGE_URL einsehen.
+					http://forum.revolutionservidores.com.br
 				"
 		]
 	];
@@ -43,7 +43,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Exploits", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Todas as regras são encontradas em nosso forum!<br/>
 				"
 		]
 	];
@@ -52,7 +52,7 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Safe Zones",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!<br/>
 				"
 		]
 	];
@@ -60,54 +60,54 @@ player createDiarySubject ["controls","Steuerung"];
 	
 	player createDiaryRecord ["serverrules",
 		[
-			"Bannable Offenses", 
+			"Bans", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
-				"
-		]
-	];
-	
-	player createDiaryRecord ["serverrules",
-		[
-			"Cop Interaction", 
-				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!<br/>
 				"
 		]
 	];
 	
 	player createDiaryRecord ["serverrules",
 		[
-			"Boats", 
+			"Interação Policial", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
-				"
-		]
-	];
-	
-	player createDiaryRecord ["serverrules",
-		[
-			"Aviation", 
-				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!<br/>
 				"
 		]
 	];
 	
 	player createDiaryRecord ["serverrules",
 		[
-			"Vehicles", 
+			"Barcos", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!<br/>
 				"
 		]
 	];
 	
 	player createDiaryRecord ["serverrules",
 		[
-			"Communication Rules", 
+			"Aviação", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!<br/>
+				"
+		]
+	];
+	
+	player createDiaryRecord ["serverrules",
+		[
+			"Veículos", 
+				"
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!<br/>
+				"
+		]
+	];
+	
+	player createDiaryRecord ["serverrules",
+		[
+			"Regras de Comunicações", 
+				"
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!<br/>
 				"
 		]
 	];
@@ -116,24 +116,24 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Random Deathmatching (RDM)", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!<br/>
 				"
 		]
 	];
 	player createDiaryRecord ["serverrules",
 		[
-			"New Life Rule", 
+			"Regra da Vida Nova", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!<br/>
 				"
 		]
 	];
 
 	player createDiaryRecord ["serverrules",
 		[
-			"Don't Be A Dick!", 
+			"Não seja um idiota!", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!<br/>
 				"
 		]
 	];
@@ -143,41 +143,41 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Crisis Negotiation",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!<br/>
 				"
 		]
 	];
 	player createDiaryRecord ["policerules",
 		[
-			"The Federal Reserve",
+			"Reserva Federal",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!<br/>
 				"
 		]
 	];
 	player createDiaryRecord ["policerules",
 		[
-			"Aviation",
+			"Aviação",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>licopters cannot hover over the city. Cops may only hover over the city if there is an active police operation going on.<br/><br/>
-				"
-		]
-	];
-	
-	player createDiaryRecord ["policerules",
-		[
-			"Illegal Areas", 
-				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!<br/>Proibido pairar em cidades, helicopteros policiais podem pairar em cidades apenas em operação.<br/><br/>
 				"
 		]
 	];
 	
 	player createDiaryRecord ["policerules",
 		[
-			"Patrolling", 
+			"Areas Ilegais", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!<br/>
+				"
+		]
+	];
+	
+	player createDiaryRecord ["policerules",
+		[
+			"Patrulhas", 
+				"
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!<br/>
 				"
 		]
 	];
@@ -186,53 +186,53 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Checkpoints", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!<br/>
 				"
 		]
 	];
 	
 	player createDiaryRecord ["policerules",
 		[
-			"Fahrzeuge", 
+			"Veículos", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!<br/>
 				"
 		]
 	];
 
 	player createDiaryRecord ["policerules",
 		[
-			"Geschwindigkeit", 
+			"Velocidade", 
 				"
-				In Hauptstädten: 30<br/>
-				Hauptstraßen: 120Km/h<br/>
-				"
-		]
-	];
-	
-	player createDiaryRecord ["policerules",
-		[
-			"Zuordnung", 
-				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL! !<br/>
+				Cidades: 30km<br/>
+				Estradas: 120Km/h<br/>
 				"
 		]
 	];
 	
 	player createDiaryRecord ["policerules",
 		[
-			"Gefägnis und Tickets",
+			"Tarefa", 
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL!<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!! !<br/>
+				"
+		]
+	];
+	
+	player createDiaryRecord ["policerules",
+		[
+			"Prisão e Multas",
+				"
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!!<br/>
 				"
 		]
 	];
 		
 	player createDiaryRecord ["policerules",
 		[
-			"Legale Waffen", 
+			"Armas Legais", 
 				"
-				Legalle Civ Waffen (Mit Waffenschein):<br/>
+				Armas Legais (Com Licença):<br/>
 				1. P07<br/>
 				3. ACP-C2<br/>
 				5. PDW2000<br/><br/>
@@ -242,33 +242,33 @@ player createDiarySubject ["controls","Steuerung"];
 	
 	player createDiaryRecord ["policerules",
 		[
-			"Einsatz von Waffen",
+			"Uso de Armas",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL! !<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br! !<br/>
 				"
 		]
 	];
 
 	player createDiaryRecord ["policerules",
 		[
-			"Razzien",
+			"Raids",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL! !<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br! !<br/>
 				"
 		]
 	];
 	
 	player createDiaryRecord ["policerules",
 		[
-			"Rangkette",
+			"Patentes",
 				"
-				Rangkette:<br/>
-				1. Rekruten<br/>
-				2. Polizisten<br/>
-				3. Polizeichef<br/>
-				4. SEK<br/>
-				5. GSG9<br/>
-				6. SEK-M<br/>
+				Patentes:<br/>
+				1. Recruta<br/>
+				2. Policial<br/>
+				3. Delegado<br/>
+				4. Recruta Bope<br/>
+				5. Bope<br/>
+				6. Com. Bope<br/>
 				7. ADMINS<br/>
 				"
 		]
@@ -278,17 +278,17 @@ player createDiarySubject ["controls","Steuerung"];
 		[
 			"Sonstiges",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL! !<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br!! !<br/>
 				"
 		]
 	];
 	
 	player createDiaryRecord ["policerules",
 		[
-			"Teamspeak Regeln",
+			"Teamspeak",
 				"
-				1. Alle Polizisten müssen sich auf dem TeamSpeak befinden wärend sie als Polizist eingeloggt sind.<br/>
-				2. Alles weitere unter HOMEPAGE_URL zu finden<br/><br/>
+				1. Policiais são obrigados a estarem online no TeamSpeak do servidor.<br/>
+				2. Teamspeak: games.revolutionservidores.com.br<br/><br/>
 				"
 		]
 	];
@@ -298,25 +298,25 @@ player createDiarySubject ["controls","Steuerung"];
 // Illegal Items Section
 	player createDiaryRecord ["illegalitems",
 		[
-			"Rebellen Regeln",
+			"Regras Rebeldes",
 				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL! !<br/>
-				"
-		]
-	];
-	player createDiaryRecord ["illegalitems",
-		[
-			"Gang Regeln",
-				"
-				Alle Regeln findest du in unserem Forum ! www.HOMEPAGE_URL! !<br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br! !<br/>
 				"
 		]
 	];
 	player createDiaryRecord ["illegalitems",
 		[
-			"Illegale Fahrzeuge",
+			"Regras Gangue",
 				"
-				Fahrzuge mit + sind immer Illegal der Rest nur in Kavalla<br/><br/>
+				Todas as regras são encontradas em nosso forum! ! forum.revolutionservidores.com.br! !<br/>
+				"
+		]
+	];
+	player createDiaryRecord ["illegalitems",
+		[
+			"Veículos Ilegais",
+				"
+				Veículos Ilegais<br/><br/>
 
 				1. Ifrit<br/>
 				2. Speedboat<br/>
@@ -325,14 +325,14 @@ player createDiarySubject ["controls","Steuerung"];
 				5. Ifrit-HMG+<br/>
 				6. Hunter-HMG+<br/>
 				7. Strider<br/>
-				8. Polizei Hunter+<br/>
-				9. Polizei Limo+<br/>
+				8. Policia Hunter+<br/>
+				9. Policia Limo+<br/>
 				"
 		]
 	];
 	player createDiaryRecord ["illegalitems",
 		[
-			"Illegale Waffen",
+			"Armas Ilegais",
 				"
 				1. MX Series<br/>
 				2. Katiba Series<br/>
@@ -342,7 +342,7 @@ player createDiarySubject ["controls","Steuerung"];
 				6. SDAR Rifle<br/>
 				7. Sting SMG<br/>
 				8. Silenced Rock40 (Tazer)<br/>
-				9. Sprengstoff<br/>
+				9. Explosivo<br/>
 				10. Zafir/Mk200<br/>
 				11. M320 LRR<br/>
 				12. Vermin ACP<br/>
@@ -351,19 +351,19 @@ player createDiarySubject ["controls","Steuerung"];
 	];
 	player createDiaryRecord ["illegalitems",
 		[
-			"Illegale Rohstoffe",
+			"Mercadorias Ilegais",
 				"
-				Die Folgenden Rohstoffe sind Illegal:<br/><br/>
-				1. Schildkröten<br/>
-				2. Kokain<br/>
-				3. Heroin<br/>
+				As seguintes matérias-primas são ilegais:<br/><br/>
+				1. Tartarugas<br/>
+				2. Cocaína<br/>
+				3. Heroína<br/>
 				4. Cannabis<br/>
-				5. Marijuana<br/>
-				6. Meth<br/>
+				5. Maconha<br/>
+				6. Methanfetamina<br/>
 				7. Moonshine<br/>
-				8. GoldBarren<br/>
+				8. Barra de Ouro<br/>
 				9. Uran III<br/>
-				10. Nieren<br/>
+				10. Rins<br/>
 				"
 		]
 	];
@@ -373,29 +373,25 @@ player createDiarySubject ["controls","Steuerung"];
 
 	player createDiaryRecord ["controls",
 		[
-			"SealDrop Steuerung",
+			"Comandos",
 				"
-				Z: Spieler Menü<br/>
-				U: Fahrzeuge auf/zuschließen<br/>
-				U: Häuser Öffnen/Schließen<br/>
-				F: Polizei Sirene<br/>
-				T: Vehicle Trunk<br/>
-				Ö: Polizei Warnung<br/>
-				Ä: Cop Schranken öffnen<br/>
-				O: Cops Nagelbänder legen<br/>
-				^: Spitzhacke<br/>
-				Left Shift + 1: Telefon<br/>
-				Left Shift + 2: WantedList<br/>
-				Left Shift + 3: Anzeige erstatten<br/>
-				Left Shift + R: Festnehmen<br/>
-				Left Shift + G: Ergeben<br/>
-				Left Shift + V: Knockout<br/>
-				Left Shift + O: Civ Restrain<br/>
-				Left Shift + Space: Springen<br/>
-				Left Shift + H: Waffe Holstern<br/>
-				Left Windows: Housing option<br/>
-				Left Windows: Farmen an Feldern<br/>
-				Left Windows: Spieler Interaktionsmenü<br/>
+				U: Abrir/fechar veículos<br/>
+				U: Abrir/Fechar casas<br/>
+				F: Sirene Policia<br/>
+				T: Porta-Malas<br/>
+				^: Picareta<br/>
+				Left Shift + 1: Telefone<br/>
+				Left Shift + 2: Lista de Procurados<br/>
+				Left Shift + 3: Adicionar acusação<br/>
+				Left Shift + R: Algemar<br/>
+				Left Shift + G: Mão na Cabeça<br/>
+				Left Shift + V: Coronhada<br/>
+				Left Shift + O: Algemar(CIVIL)<br/>
+				Left Shift + Space: Pular<br/>
+				Left Shift + H: Coldre<br/>
+				Left Windows: Opções Casa<br/>
+				Left Windows: Farmar em Campos<br/>
+				Left Windows: Menu de Interação(PLAYERS)<br/>
 				"
 		]
 	];
