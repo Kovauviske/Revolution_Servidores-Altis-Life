@@ -230,7 +230,7 @@ switch (_vehicle) do
 		_path = "skins\air\";
 		_ret =
 		[
-			[_path + "hellcat.jpg","cop"],
+//			[_path + "hellcat.jpg","cop"],
 			[_path + "hellcat_adac.jpg","med"],
 			[_path + "sek_hellcat.jpg","cop"]
 		];
