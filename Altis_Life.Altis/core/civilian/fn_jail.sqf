@@ -57,6 +57,7 @@ removeAllWeapons player;
 {player removeMagazine _x} foreach (magazines player);
 removeUniform player;
 player forceAddUniform "U_C_Scientist";
+player setObjectTextureGlobal [0,"skins\prisioneiro.jpg"];
 
 [[player,_bad,_time],"life_fnc_jailSys",false,false] spawn life_fnc_MP;
 [5] call SOCK_fnc_updatePartial;
