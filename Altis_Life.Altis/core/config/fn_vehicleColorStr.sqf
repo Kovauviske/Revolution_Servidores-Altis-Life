@@ -22,7 +22,7 @@ switch (_vehicle) do
 			case 3: {_color = "Azul";};
 			case 4: {_color = "Vermelho Escuro";};
 			case 5: {_color = "Azul / Branco"};
-			case 6: {_color = "Preto"};
+			case 6: {_color = "PM"};
 			case 7: {_color = "Preto"};
 			case 8: {_color = "Taxi"};
 			case 9: {_color = "Medico"};
