@@ -4388,11 +4388,11 @@
 			<Portuguese>Guardar Veículo</Portuguese>
 		</Key>
 		<Key ID="STR_pInAct_RemoveWeapons">
-			<Original>Waffen nehmen</Original>
+			<Original>Remover Armas</Original>
 			<German>Waffen nehmen</German>
 		</Key>
 		<Key ID="STR_pInAct_Breathalyzer">
-			<Original>Alkohol Test</Original>
+			<Original>Bafômetro</Original>
 			<German>Alkohol Test</German>
 		</Key>
 		<Key ID="STR_pInAct_SellHouse">

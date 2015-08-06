@@ -25,218 +25,218 @@ lbClear _list2;
 //lbSetData [_list2, _index, "pfad/zum/bild.paa"];
 //lbSetValue [_list2, _index, "pfad/zum/bild.paa"];
 
-_text = "Fahren ohne Fuehrerschein $15000";
+_text = "Dirigir sem Licença $15000";
 _data = "1";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Versuchter Fahrzeug Diebstahl pro Versuch $10000";
+_text = "Tentativa de roubo de Veiculo $10000";
 _data = "2";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Diebstahl von Fahrzeugen $20000";
+_text = "Roubo de Veículos $20000";
 _data = "3";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Fahren ohne Licht $1500";
+_text = "Conduzindo sem Farol $1500";
 _data = "4";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Ueberhoehte Geschwindigkeit $6000";
+_text = "Execesso de Velocidade $6000";
 _data = "5";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Gefaehrliche Fahrweise $7500";
+_text = "Condução Perigosa $7500";
 _data = "6";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Versuchter Diebstahl e. Polizeifahrzeugs $15000";
+_text = "Tentativa de Roubo, veiculo Policial $15000";
 _data = "7";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Diebstahl von Polizeifahrzeugen $25000";
+_text = "Roubo de veiculo Polocial $25000";
 _data = "8";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
 
-_text = "Landen ohne Genehmigung $20000";
+_text = "Aterrisagem não autorizada $20000";
 _data = "9";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Fahren von illegalen Fahrzeugen $100000";
+_text = "Conduzindo veículo ilegal $100000";
 _data = "10";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Unfallverursacher / Fahrerflucht nach Unfall $5000";
+_text = "Acidente / fugir após acidente $5000";
 _data = "11";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Flucht vor der Polizei $17500";
+_text = "Fuga $17500";
 _data = "12";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Ueberfahren eines anderen Spielers $1234567";
+_text = "Atropelar $1234567";
 _data = "13";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Illegale Strassensperren $15000";
+_text = "Bloqueio de Estrada Ilegal $15000";
 _data = "14";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Widerstand gegen die Staatsgewalt $45000";
+_text = "Desordem $45000";
 _data = "15";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Nicht befolgen e. pol. Anordnung $5000";
+_text = "Perseguir policiais, médicos e mecânicos $5000";
 _data = "16";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Beamtenbeleidigung $15000";
+_text = "Insultar Funcionário $15000";
 _data = "17";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Belaestigung eines Polizisten $14000";
+_text = "Agredir um Policial $14000";
 _data = "18";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Betreten einer pol. Sperrzone $50000";
+_text = "Area Restrita $50000";
 _data = "19";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Toeten eines Polizisten $1234567";
+_text = "Matar um Policial $1234567";
 _data = "20";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Beschuss auf Polizei/Beamte/Eigentum $1234567";
+_text = "Atacar Policias/Médico/Mecanico $1234567";
 _data = "21";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Zerstoerung von Polizeieigentum $15000";
+_text = "Destruição de Propriedade da Policia $15000";
 _data = "22";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Drogendelikte $123456";
+_text = "Drogas $123456";
 _data = "23";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Waffenbesitz ohne Lizenz $70000";
+_text = "Porte de Arma sem Licença $70000";
 _data = "24";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Mit gez. Waffe durch Stadt $50000";
+_text = "Arma em Mãos em cidade $50000";
 _data = "25";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Besitz einer illegalen Waffe $150000";
+_text = "Posse de Arma Ilegal $150000";
 _data = "26";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Abfeuern einer Waffe innerhalb von Staedten $50000";
+_text = "Disparar arma em cidade $50000";
 _data = "27";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Geiselnahme $1234567";
+_text = "Refém $1234567";
 _data = "28";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Raubueberfall auf Personen/Fahrzeuge $60000";
+_text = "Roubar pessoas/Veiculos $60000";
 _data = "29";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Bankraub $1234567";
+_text = "Assalto a Banco $1234567";
 _data = "30";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Mord $1234567";
+_text = "Assassinato $1234567";
 _data = "31";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Aufstand $75000";
+_text = "Respawn em Ação $75000";
 _data = "32";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Angriff durch Rebellen $75000";
+_text = "Ataque de Rebeldes $75000";
 _data = "33";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Angriff/Belagerung von Hauptstaedten/Checkpoints $1234567";
+_text = "Ataque/Camperar Cidadaes/Camperar Checkpoints $1234567";
 _data = "34";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Landung in einer Flugverbotszone $75000";
+_text = "Desembarque aéreo em local proíbido $75000";
 _data = "35";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Fliegen/Schweben unterhalb 150m ueber Stadt $2000";
+_text = "Voar/abaixo de 150m em cidades $2000";
 _data = "36";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Ausbruch aus dem Gefaengnis $1234567";
+_text = "Fuga da Prisão $1234567";
 _data = "37";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Fliegen ohne Fluglizenz $50000";
+_text = "Voar sme Licença $50000";
 _data = "38";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Dauerhaftes hupen $7500";
+_text = "Buzinar sem necessidade $7500";
 _data = "39";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Handel mit exotischen Gütern $500000";
+_text = "Comércio de bens Exóticos $500000";
 _data = "40";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Umfahren eines Außenpostens €25000";
+_text = "Bater em posto avançado €25000";
 _data = "41";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Kraftwerk manipulation €25000";
+_text = "Manipular area de energia €25000";
 _data = "42";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
 
-_text = "Organ Handel €50000";
+_text = "Tráfico de Orgãos €50000";
 _data = "919";
 _list2 lbAdd format["%1 (%2)",_text,_data];
 _list2 lbSetData [(lbSize _list2)-1,_data];
