@@ -1,3 +1,4 @@
+#include "infiSTAR_AdminMenu.hpp"
 author = "Tonic | Edição SealDrop, JPS e Dilu";
 onLoadName = "٠٠•● Revolution Servidores ●•٠";
 onLoadMission = "• A RPG by Revolution servidores •";
