@@ -81,8 +81,8 @@ switch (_var) do
 	case "life_inv_cornmeal": {"Farinha de Milho"};
 	case "life_inv_bottledwhiskey": {"Uisque Engarrafado"};
 	case "life_inv_bottledbeer": {"Cerveja Engarrafada"};
-	case "life_inv_bottledshine": {"Monshine Engarrafado"};
-	case "life_inv_moonshine": {"Monshine Destilado"};
+	case "life_inv_bottledshine": {"Moonshine Engarrafado"};
+	case "life_inv_moonshine": {"Moonshine Destilado"};
 	case "life_inv_puranium": {"Mistura de Urânio"}; // Add This
     case "life_inv_ipuranium": {"Urânio III"}; // Add This
     case "life_inv_uranium1": {"Urânio 1"}; // Add This
