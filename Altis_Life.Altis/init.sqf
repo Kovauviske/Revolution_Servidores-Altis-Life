@@ -1,4 +1,4 @@
-enableSaving [false, false];
+﻿enableSaving [false, false];
 
 X_Server = false;
 X_Client = false;
@@ -18,7 +18,7 @@ life_versionInfo = "Altis Life RPG";
 [] execVM "script\teargas.sqf"; //Load Teargas Script for Cops
 [] execVM "script\savezone.sqf"; //Load the Savezones
 [] execVM "script\fn_statusBar.sqf"; //Load the Statusbar
-enableEnvironment false;
+enableEnvironment true;
 
 //Scheiß Nebel hau ab
 [] spawn {
