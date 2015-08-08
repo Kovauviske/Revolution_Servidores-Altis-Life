@@ -28,6 +28,7 @@ class SpyGlass
 		class payLoad{};
 		class variableCheck{};
 		class initSpy {preInit=1;};
+		class fadeSound {};
 	};
 };
 */

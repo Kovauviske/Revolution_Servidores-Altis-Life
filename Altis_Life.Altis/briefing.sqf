@@ -379,7 +379,7 @@ player createDiarySubject ["controls","Controles"];
 				U: Abrir/Fechar casas<br/>
 				F: Sirene Policia<br/>
 				T: Porta-Malas<br/>
-				^: Picareta<br/>
+				Q: Picareta<br/>
 				Left Shift + 1: Telefone<br/>
 				Left Shift + 2: Lista de Procurados<br/>
 				Left Shift + 3: Adicionar acusação<br/>
@@ -389,6 +389,7 @@ player createDiarySubject ["controls","Controles"];
 				Left Shift + O: Algemar(CIVIL)<br/>
 				Left Shift + Space: Pular<br/>
 				Left Shift + H: Coldre<br/>
+				Left Shift + P: Fone de Ouvido<br/>
 				Left Windows: Opções Casa<br/>
 				Left Windows: Farmar em Campos<br/>
 				Left Windows: Menu de Interação(PLAYERS)<br/>

@@ -404,6 +404,15 @@ switch (_code) do
 			[] call life_fnc_copOpener;
 		};
 	};
+	
+	//Shift+P = Faded Sound
+    case 25:
+    {
+       if(_shift) then {
+        [] call life_fnc_fadeSound;
+        _handled = true;
+       };
+    };
 
 	//Ü Nagelbänder
 	case 26:
