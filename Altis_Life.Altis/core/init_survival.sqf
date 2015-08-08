@@ -35,7 +35,7 @@
 	
 	_fnc_battery =
 	{
-		if(life_battery < 2) then {hint "Seu telefone está sem bateria.";}
+		if(life_battery < 2) then {hint "Seu telefone esta sem bateria.";}
 		else
 		{
 			life_battery = life_battery - 5;
@@ -43,9 +43,9 @@
 			if(life_battery < 2) then {hint "Your battery is empty.";};
 			switch(life_battery) do 
 			{
-				case 30: {hint "A bateria do seu telefone está em 30%.";};
-				case 20: {hint "A bateria do seu telefone está em 20%.";};
-				case 10: {hint "A bateria do seu telefone está em 10%.";};
+				case 30: {hint "A bateria do seu telefone esta em 30%.";};
+				case 20: {hint "A bateria do seu telefone esta em 20%.";};
+				case 10: {hint "A bateria do seu telefone esta em 10%.";};
 			};
 		};
 	};
